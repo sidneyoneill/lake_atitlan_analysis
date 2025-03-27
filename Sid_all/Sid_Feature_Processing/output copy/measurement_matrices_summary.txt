@@ -1,0 +1,27 @@
+
+Processing feature: temp
+
+Measurement Matrix Summary for temp - WG:
+Total dates: 119
+Total depths: 323
+Total possible measurements: 38437
+Matrix saved to: output/WG/temp/measurement_matrix.csv
+Time series plot saved to: output/WG/temp/depth_group_timeseries.png
+
+Measurement Matrix Summary for temp - SA:
+Total dates: 108
+Total depths: 88
+Total possible measurements: 9504
+Matrix saved to: output/SA/temp/measurement_matrix.csv
+Time series plot saved to: output/SA/temp/depth_group_timeseries.png
+
+Measurement Matrix Summary for temp - WP:
+Total dates: 107
+Total depths: 123
+Total possible measurements: 13161
+Matrix saved to: output/WP/temp/measurement_matrix.csv
+Time series plot saved to: output/WP/temp/depth_group_timeseries.png
+
+Processing complete for temp.
+
+All features have been processed. Check the output directory for results.

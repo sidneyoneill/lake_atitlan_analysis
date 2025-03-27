@@ -1,0 +1,71 @@
+# Re-import necessary libraries after reset
+import pandas as pd
+from statsmodels.tsa.seasonal import seasonal_decompose
+import matplotlib.pyplot as plt
+
+# Load the dataset again
+file_path = 'Raw_data_grouped.xlsx'
+data = pd.read_excel(file_path)
+
+df_filtered = data[data['Fecha'] >= '2018-01-01']
+
+# Ensure 'Fecha' (date) is in datetime format and sort the dataset by date
+data['Fecha'] = pd.to_datetime(data['Fecha'])
+data = data.sort_values(by='Fecha')
+
+# Filter the data for the WG area and 0-10m depth group, and select the temperature variable
+filtered_data = data[(data['Sitio'] == 'WG') & (data['Depth Group'] == '0-10 m')]
+
+# Check if the dataset contains sufficient data points
+if filtered_data.empty or len(filtered_data) < 2:
+    print("Not enough data for the WG area in the 0-10m depth group to perform seasonal decomposition.")
+else:
+    # Filter for temperature variable and handle missing values
+    temp_data = filtered_data[['Fecha', 'DO (mg/L)']].dropna()
+
+    # Set the date as the index
+    temp_data.set_index('Fecha', inplace=True)
+
+    # Perform seasonal decomposition
+    decomposition = seasonal_decompose(temp_data['DO (mg/L)'], model='additive', period=12)
+
+    # Plot the decomposition results manually
+    plt.figure(figsize=(10, 6))
+
+    # Observed component
+    plt.subplot(4, 1, 1)
+    plt.plot(decomposition.observed, label='Observed')
+    plt.title('Observed')  # Add title for this subplot
+    #plt.legend(loc='upper left')
+
+    # Trend component
+    plt.subplot(4, 1, 2)
+    plt.plot(decomposition.trend, label='Trend', color='orange')
+    plt.title('Trend')
+    #plt.legend(loc='upper left')
+
+    # Seasonal component
+    plt.subplot(4, 1, 3)
+    plt.plot(decomposition.seasonal, label='Seasonal', color='green')
+    plt.title('Seasonal')
+    #plt.legend(loc='upper left')
+
+    # Residual component
+    plt.subplot(4, 1, 4)
+    plt.plot(decomposition.resid, label='Residual', color='red')
+    plt.title('Residual')
+    #plt.legend(loc='upper left')
+
+    # Adjust layout and add a global title
+    plt.tight_layout()
+    plt.subplots_adjust(top=0.88)
+    plt.suptitle('Seasonal Decomposition of Dissolved Oxygen (mg/L) for WG (0-10m depth)', fontsize=15)
+    plt.show()
+
+    # Save the decomposition components to a new DataFrame
+    decomposed_df = pd.DataFrame({
+        'Raw': decomposition.observed,
+        'Trend': decomposition.trend,
+        'Seasonal': decomposition.seasonal,
+        'Residual': decomposition.resid
+    })

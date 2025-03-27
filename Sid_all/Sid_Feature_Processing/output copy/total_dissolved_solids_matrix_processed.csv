@@ -1,0 +1,1993 @@
+location,depth_group,date,mean_total_dissolved_solids
+SA,Surface,2014-02-14,
+SA,Mid-Depth,2014-02-14,
+SA,Lower Photic,2014-02-14,
+SA,Deep,2014-02-14,
+WG,Surface,2014-02-14,
+WG,Mid-Depth,2014-02-14,
+WG,Lower Photic,2014-02-14,
+WG,Deep,2014-02-14,
+WP,Surface,2014-02-14,
+WP,Mid-Depth,2014-02-14,
+WP,Lower Photic,2014-02-14,
+WP,Deep,2014-02-14,
+SA,Surface,2014-02-18,
+SA,Mid-Depth,2014-02-18,
+SA,Lower Photic,2014-02-18,
+SA,Deep,2014-02-18,
+WG,Surface,2014-02-18,
+WG,Mid-Depth,2014-02-18,
+WG,Lower Photic,2014-02-18,
+WG,Deep,2014-02-18,
+WP,Surface,2014-02-18,
+WP,Mid-Depth,2014-02-18,
+WP,Lower Photic,2014-02-18,
+WP,Deep,2014-02-18,
+SA,Surface,2014-02-19,
+SA,Mid-Depth,2014-02-19,
+SA,Lower Photic,2014-02-19,
+SA,Deep,2014-02-19,
+WG,Surface,2014-02-19,
+WG,Mid-Depth,2014-02-19,
+WG,Lower Photic,2014-02-19,
+WG,Deep,2014-02-19,
+WP,Surface,2014-02-19,
+WP,Mid-Depth,2014-02-19,
+WP,Lower Photic,2014-02-19,
+WP,Deep,2014-02-19,
+SA,Surface,2014-02-26,
+SA,Mid-Depth,2014-02-26,
+SA,Lower Photic,2014-02-26,
+SA,Deep,2014-02-26,
+WG,Surface,2014-02-26,
+WG,Mid-Depth,2014-02-26,
+WG,Lower Photic,2014-02-26,
+WG,Deep,2014-02-26,
+WP,Surface,2014-02-26,
+WP,Mid-Depth,2014-02-26,
+WP,Lower Photic,2014-02-26,
+WP,Deep,2014-02-26,
+SA,Surface,2014-03-26,
+SA,Mid-Depth,2014-03-26,
+SA,Lower Photic,2014-03-26,
+SA,Deep,2014-03-26,
+WG,Surface,2014-03-26,
+WG,Mid-Depth,2014-03-26,
+WG,Lower Photic,2014-03-26,
+WG,Deep,2014-03-26,
+WP,Surface,2014-03-26,
+WP,Mid-Depth,2014-03-26,
+WP,Lower Photic,2014-03-26,
+WP,Deep,2014-03-26,
+SA,Surface,2014-04-22,
+SA,Mid-Depth,2014-04-22,
+SA,Lower Photic,2014-04-22,
+SA,Deep,2014-04-22,
+WG,Surface,2014-04-22,
+WG,Mid-Depth,2014-04-22,
+WG,Lower Photic,2014-04-22,
+WG,Deep,2014-04-22,
+WP,Surface,2014-04-22,
+WP,Mid-Depth,2014-04-22,
+WP,Lower Photic,2014-04-22,
+WP,Deep,2014-04-22,
+SA,Surface,2014-04-23,
+SA,Mid-Depth,2014-04-23,
+SA,Lower Photic,2014-04-23,
+SA,Deep,2014-04-23,
+WG,Surface,2014-04-23,
+WG,Mid-Depth,2014-04-23,
+WG,Lower Photic,2014-04-23,
+WG,Deep,2014-04-23,
+WP,Surface,2014-04-23,
+WP,Mid-Depth,2014-04-23,
+WP,Lower Photic,2014-04-23,
+WP,Deep,2014-04-23,
+SA,Surface,2014-04-27,
+SA,Mid-Depth,2014-04-27,
+SA,Lower Photic,2014-04-27,
+SA,Deep,2014-04-27,
+WG,Surface,2014-04-27,
+WG,Mid-Depth,2014-04-27,
+WG,Lower Photic,2014-04-27,
+WG,Deep,2014-04-27,
+WP,Surface,2014-04-27,
+WP,Mid-Depth,2014-04-27,
+WP,Lower Photic,2014-04-27,
+WP,Deep,2014-04-27,
+SA,Surface,2014-05-19,
+SA,Mid-Depth,2014-05-19,
+SA,Lower Photic,2014-05-19,
+SA,Deep,2014-05-19,
+WG,Surface,2014-05-19,
+WG,Mid-Depth,2014-05-19,
+WG,Lower Photic,2014-05-19,
+WG,Deep,2014-05-19,
+WP,Surface,2014-05-19,
+WP,Mid-Depth,2014-05-19,
+WP,Lower Photic,2014-05-19,
+WP,Deep,2014-05-19,
+SA,Surface,2014-06-24,
+SA,Mid-Depth,2014-06-24,
+SA,Lower Photic,2014-06-24,
+SA,Deep,2014-06-24,
+WG,Surface,2014-06-24,
+WG,Mid-Depth,2014-06-24,
+WG,Lower Photic,2014-06-24,
+WG,Deep,2014-06-24,
+WP,Surface,2014-06-24,
+WP,Mid-Depth,2014-06-24,
+WP,Lower Photic,2014-06-24,
+WP,Deep,2014-06-24,
+SA,Surface,2014-06-25,
+SA,Mid-Depth,2014-06-25,
+SA,Lower Photic,2014-06-25,
+SA,Deep,2014-06-25,
+WG,Surface,2014-06-25,
+WG,Mid-Depth,2014-06-25,
+WG,Lower Photic,2014-06-25,
+WG,Deep,2014-06-25,
+WP,Surface,2014-06-25,
+WP,Mid-Depth,2014-06-25,
+WP,Lower Photic,2014-06-25,
+WP,Deep,2014-06-25,
+SA,Surface,2014-07-22,
+SA,Mid-Depth,2014-07-22,
+SA,Lower Photic,2014-07-22,
+SA,Deep,2014-07-22,
+WG,Surface,2014-07-22,
+WG,Mid-Depth,2014-07-22,
+WG,Lower Photic,2014-07-22,
+WG,Deep,2014-07-22,
+WP,Surface,2014-07-22,
+WP,Mid-Depth,2014-07-22,
+WP,Lower Photic,2014-07-22,
+WP,Deep,2014-07-22,
+SA,Surface,2014-07-23,
+SA,Mid-Depth,2014-07-23,
+SA,Lower Photic,2014-07-23,
+SA,Deep,2014-07-23,
+WG,Surface,2014-07-23,
+WG,Mid-Depth,2014-07-23,
+WG,Lower Photic,2014-07-23,
+WG,Deep,2014-07-23,
+WP,Surface,2014-07-23,
+WP,Mid-Depth,2014-07-23,
+WP,Lower Photic,2014-07-23,
+WP,Deep,2014-07-23,
+SA,Surface,2014-08-12,
+SA,Mid-Depth,2014-08-12,
+SA,Lower Photic,2014-08-12,
+SA,Deep,2014-08-12,
+WG,Surface,2014-08-12,
+WG,Mid-Depth,2014-08-12,
+WG,Lower Photic,2014-08-12,
+WG,Deep,2014-08-12,
+WP,Surface,2014-08-12,
+WP,Mid-Depth,2014-08-12,
+WP,Lower Photic,2014-08-12,
+WP,Deep,2014-08-12,
+SA,Surface,2014-08-13,
+SA,Mid-Depth,2014-08-13,
+SA,Lower Photic,2014-08-13,
+SA,Deep,2014-08-13,
+WG,Surface,2014-08-13,
+WG,Mid-Depth,2014-08-13,
+WG,Lower Photic,2014-08-13,
+WG,Deep,2014-08-13,
+WP,Surface,2014-08-13,
+WP,Mid-Depth,2014-08-13,
+WP,Lower Photic,2014-08-13,
+WP,Deep,2014-08-13,
+SA,Surface,2014-09-08,
+SA,Mid-Depth,2014-09-08,
+SA,Lower Photic,2014-09-08,
+SA,Deep,2014-09-08,
+WG,Surface,2014-09-08,
+WG,Mid-Depth,2014-09-08,
+WG,Lower Photic,2014-09-08,
+WG,Deep,2014-09-08,
+WP,Surface,2014-09-08,
+WP,Mid-Depth,2014-09-08,
+WP,Lower Photic,2014-09-08,
+WP,Deep,2014-09-08,
+SA,Surface,2014-09-09,
+SA,Mid-Depth,2014-09-09,
+SA,Lower Photic,2014-09-09,
+SA,Deep,2014-09-09,
+WG,Surface,2014-09-09,
+WG,Mid-Depth,2014-09-09,
+WG,Lower Photic,2014-09-09,
+WG,Deep,2014-09-09,
+WP,Surface,2014-09-09,
+WP,Mid-Depth,2014-09-09,
+WP,Lower Photic,2014-09-09,
+WP,Deep,2014-09-09,
+SA,Surface,2014-09-25,
+SA,Mid-Depth,2014-09-25,
+SA,Lower Photic,2014-09-25,
+SA,Deep,2014-09-25,
+WG,Surface,2014-09-25,
+WG,Mid-Depth,2014-09-25,
+WG,Lower Photic,2014-09-25,
+WG,Deep,2014-09-25,
+WP,Surface,2014-09-25,
+WP,Mid-Depth,2014-09-25,
+WP,Lower Photic,2014-09-25,
+WP,Deep,2014-09-25,
+SA,Surface,2014-10-07,
+SA,Mid-Depth,2014-10-07,
+SA,Lower Photic,2014-10-07,
+SA,Deep,2014-10-07,
+WG,Surface,2014-10-07,
+WG,Mid-Depth,2014-10-07,
+WG,Lower Photic,2014-10-07,
+WG,Deep,2014-10-07,
+WP,Surface,2014-10-07,
+WP,Mid-Depth,2014-10-07,
+WP,Lower Photic,2014-10-07,
+WP,Deep,2014-10-07,
+SA,Surface,2014-10-08,
+SA,Mid-Depth,2014-10-08,
+SA,Lower Photic,2014-10-08,
+SA,Deep,2014-10-08,
+WG,Surface,2014-10-08,
+WG,Mid-Depth,2014-10-08,
+WG,Lower Photic,2014-10-08,
+WG,Deep,2014-10-08,
+WP,Surface,2014-10-08,
+WP,Mid-Depth,2014-10-08,
+WP,Lower Photic,2014-10-08,
+WP,Deep,2014-10-08,
+SA,Surface,2014-11-11,
+SA,Mid-Depth,2014-11-11,
+SA,Lower Photic,2014-11-11,
+SA,Deep,2014-11-11,
+WG,Surface,2014-11-11,
+WG,Mid-Depth,2014-11-11,
+WG,Lower Photic,2014-11-11,
+WG,Deep,2014-11-11,
+WP,Surface,2014-11-11,
+WP,Mid-Depth,2014-11-11,
+WP,Lower Photic,2014-11-11,
+WP,Deep,2014-11-11,
+SA,Surface,2014-11-12,
+SA,Mid-Depth,2014-11-12,
+SA,Lower Photic,2014-11-12,
+SA,Deep,2014-11-12,
+WG,Surface,2014-11-12,
+WG,Mid-Depth,2014-11-12,
+WG,Lower Photic,2014-11-12,
+WG,Deep,2014-11-12,
+WP,Surface,2014-11-12,
+WP,Mid-Depth,2014-11-12,
+WP,Lower Photic,2014-11-12,
+WP,Deep,2014-11-12,
+SA,Surface,2014-12-08,
+SA,Mid-Depth,2014-12-08,
+SA,Lower Photic,2014-12-08,
+SA,Deep,2014-12-08,
+WG,Surface,2014-12-08,
+WG,Mid-Depth,2014-12-08,
+WG,Lower Photic,2014-12-08,
+WG,Deep,2014-12-08,
+WP,Surface,2014-12-08,
+WP,Mid-Depth,2014-12-08,
+WP,Lower Photic,2014-12-08,
+WP,Deep,2014-12-08,
+SA,Surface,2014-12-09,
+SA,Mid-Depth,2014-12-09,
+SA,Lower Photic,2014-12-09,
+SA,Deep,2014-12-09,
+WG,Surface,2014-12-09,
+WG,Mid-Depth,2014-12-09,
+WG,Lower Photic,2014-12-09,
+WG,Deep,2014-12-09,
+WP,Surface,2014-12-09,
+WP,Mid-Depth,2014-12-09,
+WP,Lower Photic,2014-12-09,
+WP,Deep,2014-12-09,
+SA,Surface,2015-01-13,
+SA,Mid-Depth,2015-01-13,
+SA,Lower Photic,2015-01-13,
+SA,Deep,2015-01-13,
+WG,Surface,2015-01-13,
+WG,Mid-Depth,2015-01-13,
+WG,Lower Photic,2015-01-13,
+WG,Deep,2015-01-13,
+WP,Surface,2015-01-13,
+WP,Mid-Depth,2015-01-13,
+WP,Lower Photic,2015-01-13,
+WP,Deep,2015-01-13,
+SA,Surface,2015-01-14,
+SA,Mid-Depth,2015-01-14,
+SA,Lower Photic,2015-01-14,
+SA,Deep,2015-01-14,
+WG,Surface,2015-01-14,
+WG,Mid-Depth,2015-01-14,
+WG,Lower Photic,2015-01-14,
+WG,Deep,2015-01-14,
+WP,Surface,2015-01-14,
+WP,Mid-Depth,2015-01-14,
+WP,Lower Photic,2015-01-14,
+WP,Deep,2015-01-14,
+SA,Surface,2015-02-10,
+SA,Mid-Depth,2015-02-10,
+SA,Lower Photic,2015-02-10,
+SA,Deep,2015-02-10,
+WG,Surface,2015-02-10,
+WG,Mid-Depth,2015-02-10,
+WG,Lower Photic,2015-02-10,
+WG,Deep,2015-02-10,
+WP,Surface,2015-02-10,
+WP,Mid-Depth,2015-02-10,
+WP,Lower Photic,2015-02-10,
+WP,Deep,2015-02-10,
+SA,Surface,2015-02-11,
+SA,Mid-Depth,2015-02-11,
+SA,Lower Photic,2015-02-11,
+SA,Deep,2015-02-11,
+WG,Surface,2015-02-11,
+WG,Mid-Depth,2015-02-11,
+WG,Lower Photic,2015-02-11,
+WG,Deep,2015-02-11,
+WP,Surface,2015-02-11,
+WP,Mid-Depth,2015-02-11,
+WP,Lower Photic,2015-02-11,
+WP,Deep,2015-02-11,
+SA,Surface,2015-03-10,
+SA,Mid-Depth,2015-03-10,
+SA,Lower Photic,2015-03-10,
+SA,Deep,2015-03-10,
+WG,Surface,2015-03-10,
+WG,Mid-Depth,2015-03-10,
+WG,Lower Photic,2015-03-10,
+WG,Deep,2015-03-10,
+WP,Surface,2015-03-10,
+WP,Mid-Depth,2015-03-10,
+WP,Lower Photic,2015-03-10,
+WP,Deep,2015-03-10,
+SA,Surface,2015-03-11,
+SA,Mid-Depth,2015-03-11,
+SA,Lower Photic,2015-03-11,
+SA,Deep,2015-03-11,
+WG,Surface,2015-03-11,
+WG,Mid-Depth,2015-03-11,
+WG,Lower Photic,2015-03-11,
+WG,Deep,2015-03-11,
+WP,Surface,2015-03-11,
+WP,Mid-Depth,2015-03-11,
+WP,Lower Photic,2015-03-11,
+WP,Deep,2015-03-11,
+SA,Surface,2015-04-14,
+SA,Mid-Depth,2015-04-14,
+SA,Lower Photic,2015-04-14,
+SA,Deep,2015-04-14,
+WG,Surface,2015-04-14,
+WG,Mid-Depth,2015-04-14,
+WG,Lower Photic,2015-04-14,
+WG,Deep,2015-04-14,
+WP,Surface,2015-04-14,
+WP,Mid-Depth,2015-04-14,
+WP,Lower Photic,2015-04-14,
+WP,Deep,2015-04-14,
+SA,Surface,2015-05-05,
+SA,Mid-Depth,2015-05-05,
+SA,Lower Photic,2015-05-05,
+SA,Deep,2015-05-05,
+WG,Surface,2015-05-05,
+WG,Mid-Depth,2015-05-05,
+WG,Lower Photic,2015-05-05,
+WG,Deep,2015-05-05,
+WP,Surface,2015-05-05,
+WP,Mid-Depth,2015-05-05,
+WP,Lower Photic,2015-05-05,
+WP,Deep,2015-05-05,
+SA,Surface,2015-06-09,
+SA,Mid-Depth,2015-06-09,
+SA,Lower Photic,2015-06-09,
+SA,Deep,2015-06-09,
+WG,Surface,2015-06-09,
+WG,Mid-Depth,2015-06-09,
+WG,Lower Photic,2015-06-09,
+WG,Deep,2015-06-09,
+WP,Surface,2015-06-09,
+WP,Mid-Depth,2015-06-09,
+WP,Lower Photic,2015-06-09,
+WP,Deep,2015-06-09,
+SA,Surface,2015-07-14,
+SA,Mid-Depth,2015-07-14,
+SA,Lower Photic,2015-07-14,
+SA,Deep,2015-07-14,
+WG,Surface,2015-07-14,
+WG,Mid-Depth,2015-07-14,
+WG,Lower Photic,2015-07-14,
+WG,Deep,2015-07-14,
+WP,Surface,2015-07-14,
+WP,Mid-Depth,2015-07-14,
+WP,Lower Photic,2015-07-14,
+WP,Deep,2015-07-14,
+SA,Surface,2015-07-15,
+SA,Mid-Depth,2015-07-15,
+SA,Lower Photic,2015-07-15,
+SA,Deep,2015-07-15,
+WG,Surface,2015-07-15,
+WG,Mid-Depth,2015-07-15,
+WG,Lower Photic,2015-07-15,
+WG,Deep,2015-07-15,
+WP,Surface,2015-07-15,
+WP,Mid-Depth,2015-07-15,
+WP,Lower Photic,2015-07-15,
+WP,Deep,2015-07-15,
+SA,Surface,2015-08-10,
+SA,Mid-Depth,2015-08-10,
+SA,Lower Photic,2015-08-10,
+SA,Deep,2015-08-10,
+WG,Surface,2015-08-10,
+WG,Mid-Depth,2015-08-10,
+WG,Lower Photic,2015-08-10,
+WG,Deep,2015-08-10,
+WP,Surface,2015-08-10,
+WP,Mid-Depth,2015-08-10,
+WP,Lower Photic,2015-08-10,
+WP,Deep,2015-08-10,
+SA,Surface,2015-08-11,
+SA,Mid-Depth,2015-08-11,
+SA,Lower Photic,2015-08-11,
+SA,Deep,2015-08-11,
+WG,Surface,2015-08-11,
+WG,Mid-Depth,2015-08-11,
+WG,Lower Photic,2015-08-11,
+WG,Deep,2015-08-11,
+WP,Surface,2015-08-11,
+WP,Mid-Depth,2015-08-11,
+WP,Lower Photic,2015-08-11,
+WP,Deep,2015-08-11,
+SA,Surface,2015-09-09,
+SA,Mid-Depth,2015-09-09,
+SA,Lower Photic,2015-09-09,
+SA,Deep,2015-09-09,
+WG,Surface,2015-09-09,
+WG,Mid-Depth,2015-09-09,
+WG,Lower Photic,2015-09-09,
+WG,Deep,2015-09-09,
+WP,Surface,2015-09-09,
+WP,Mid-Depth,2015-09-09,
+WP,Lower Photic,2015-09-09,
+WP,Deep,2015-09-09,
+SA,Surface,2015-10-06,
+SA,Mid-Depth,2015-10-06,
+SA,Lower Photic,2015-10-06,
+SA,Deep,2015-10-06,
+WG,Surface,2015-10-06,
+WG,Mid-Depth,2015-10-06,
+WG,Lower Photic,2015-10-06,
+WG,Deep,2015-10-06,
+WP,Surface,2015-10-06,
+WP,Mid-Depth,2015-10-06,
+WP,Lower Photic,2015-10-06,
+WP,Deep,2015-10-06,
+SA,Surface,2015-10-07,
+SA,Mid-Depth,2015-10-07,
+SA,Lower Photic,2015-10-07,
+SA,Deep,2015-10-07,
+WG,Surface,2015-10-07,
+WG,Mid-Depth,2015-10-07,
+WG,Lower Photic,2015-10-07,
+WG,Deep,2015-10-07,
+WP,Surface,2015-10-07,
+WP,Mid-Depth,2015-10-07,
+WP,Lower Photic,2015-10-07,
+WP,Deep,2015-10-07,
+SA,Surface,2015-11-11,
+SA,Mid-Depth,2015-11-11,
+SA,Lower Photic,2015-11-11,
+SA,Deep,2015-11-11,
+WG,Surface,2015-11-11,
+WG,Mid-Depth,2015-11-11,
+WG,Lower Photic,2015-11-11,
+WG,Deep,2015-11-11,
+WP,Surface,2015-11-11,
+WP,Mid-Depth,2015-11-11,
+WP,Lower Photic,2015-11-11,
+WP,Deep,2015-11-11,
+SA,Surface,2015-11-12,
+SA,Mid-Depth,2015-11-12,
+SA,Lower Photic,2015-11-12,
+SA,Deep,2015-11-12,
+WG,Surface,2015-11-12,
+WG,Mid-Depth,2015-11-12,
+WG,Lower Photic,2015-11-12,
+WG,Deep,2015-11-12,
+WP,Surface,2015-11-12,
+WP,Mid-Depth,2015-11-12,
+WP,Lower Photic,2015-11-12,
+WP,Deep,2015-11-12,
+SA,Surface,2015-12-08,
+SA,Mid-Depth,2015-12-08,
+SA,Lower Photic,2015-12-08,
+SA,Deep,2015-12-08,
+WG,Surface,2015-12-08,
+WG,Mid-Depth,2015-12-08,
+WG,Lower Photic,2015-12-08,
+WG,Deep,2015-12-08,
+WP,Surface,2015-12-08,
+WP,Mid-Depth,2015-12-08,
+WP,Lower Photic,2015-12-08,
+WP,Deep,2015-12-08,
+SA,Surface,2016-01-19,
+SA,Mid-Depth,2016-01-19,
+SA,Lower Photic,2016-01-19,
+SA,Deep,2016-01-19,
+WG,Surface,2016-01-19,
+WG,Mid-Depth,2016-01-19,
+WG,Lower Photic,2016-01-19,
+WG,Deep,2016-01-19,
+WP,Surface,2016-01-19,
+WP,Mid-Depth,2016-01-19,
+WP,Lower Photic,2016-01-19,
+WP,Deep,2016-01-19,
+SA,Surface,2016-01-20,
+SA,Mid-Depth,2016-01-20,
+SA,Lower Photic,2016-01-20,
+SA,Deep,2016-01-20,
+WG,Surface,2016-01-20,
+WG,Mid-Depth,2016-01-20,
+WG,Lower Photic,2016-01-20,
+WG,Deep,2016-01-20,
+WP,Surface,2016-01-20,
+WP,Mid-Depth,2016-01-20,
+WP,Lower Photic,2016-01-20,
+WP,Deep,2016-01-20,
+SA,Surface,2016-02-16,
+SA,Mid-Depth,2016-02-16,
+SA,Lower Photic,2016-02-16,
+SA,Deep,2016-02-16,
+WG,Surface,2016-02-16,
+WG,Mid-Depth,2016-02-16,
+WG,Lower Photic,2016-02-16,
+WG,Deep,2016-02-16,
+WP,Surface,2016-02-16,
+WP,Mid-Depth,2016-02-16,
+WP,Lower Photic,2016-02-16,
+WP,Deep,2016-02-16,
+SA,Surface,2016-02-17,
+SA,Mid-Depth,2016-02-17,
+SA,Lower Photic,2016-02-17,
+SA,Deep,2016-02-17,
+WG,Surface,2016-02-17,
+WG,Mid-Depth,2016-02-17,
+WG,Lower Photic,2016-02-17,
+WG,Deep,2016-02-17,
+WP,Surface,2016-02-17,
+WP,Mid-Depth,2016-02-17,
+WP,Lower Photic,2016-02-17,
+WP,Deep,2016-02-17,
+SA,Surface,2016-03-01,
+SA,Mid-Depth,2016-03-01,
+SA,Lower Photic,2016-03-01,
+SA,Deep,2016-03-01,
+WG,Surface,2016-03-01,
+WG,Mid-Depth,2016-03-01,
+WG,Lower Photic,2016-03-01,
+WG,Deep,2016-03-01,
+WP,Surface,2016-03-01,
+WP,Mid-Depth,2016-03-01,
+WP,Lower Photic,2016-03-01,
+WP,Deep,2016-03-01,
+SA,Surface,2016-03-08,
+SA,Mid-Depth,2016-03-08,
+SA,Lower Photic,2016-03-08,
+SA,Deep,2016-03-08,
+WG,Surface,2016-03-08,
+WG,Mid-Depth,2016-03-08,
+WG,Lower Photic,2016-03-08,
+WG,Deep,2016-03-08,
+WP,Surface,2016-03-08,
+WP,Mid-Depth,2016-03-08,
+WP,Lower Photic,2016-03-08,
+WP,Deep,2016-03-08,
+SA,Surface,2016-03-09,
+SA,Mid-Depth,2016-03-09,
+SA,Lower Photic,2016-03-09,
+SA,Deep,2016-03-09,
+WG,Surface,2016-03-09,
+WG,Mid-Depth,2016-03-09,
+WG,Lower Photic,2016-03-09,
+WG,Deep,2016-03-09,
+WP,Surface,2016-03-09,
+WP,Mid-Depth,2016-03-09,
+WP,Lower Photic,2016-03-09,
+WP,Deep,2016-03-09,
+SA,Surface,2016-04-12,
+SA,Mid-Depth,2016-04-12,
+SA,Lower Photic,2016-04-12,
+SA,Deep,2016-04-12,
+WG,Surface,2016-04-12,
+WG,Mid-Depth,2016-04-12,
+WG,Lower Photic,2016-04-12,
+WG,Deep,2016-04-12,
+WP,Surface,2016-04-12,
+WP,Mid-Depth,2016-04-12,
+WP,Lower Photic,2016-04-12,
+WP,Deep,2016-04-12,
+SA,Surface,2016-04-13,
+SA,Mid-Depth,2016-04-13,
+SA,Lower Photic,2016-04-13,
+SA,Deep,2016-04-13,
+WG,Surface,2016-04-13,
+WG,Mid-Depth,2016-04-13,
+WG,Lower Photic,2016-04-13,
+WG,Deep,2016-04-13,
+WP,Surface,2016-04-13,
+WP,Mid-Depth,2016-04-13,
+WP,Lower Photic,2016-04-13,
+WP,Deep,2016-04-13,
+SA,Surface,2016-05-17,
+SA,Mid-Depth,2016-05-17,
+SA,Lower Photic,2016-05-17,
+SA,Deep,2016-05-17,
+WG,Surface,2016-05-17,
+WG,Mid-Depth,2016-05-17,
+WG,Lower Photic,2016-05-17,
+WG,Deep,2016-05-17,
+WP,Surface,2016-05-17,
+WP,Mid-Depth,2016-05-17,
+WP,Lower Photic,2016-05-17,
+WP,Deep,2016-05-17,
+SA,Surface,2016-05-18,
+SA,Mid-Depth,2016-05-18,
+SA,Lower Photic,2016-05-18,
+SA,Deep,2016-05-18,
+WG,Surface,2016-05-18,
+WG,Mid-Depth,2016-05-18,
+WG,Lower Photic,2016-05-18,
+WG,Deep,2016-05-18,
+WP,Surface,2016-05-18,
+WP,Mid-Depth,2016-05-18,
+WP,Lower Photic,2016-05-18,
+WP,Deep,2016-05-18,
+SA,Surface,2016-06-14,
+SA,Mid-Depth,2016-06-14,
+SA,Lower Photic,2016-06-14,
+SA,Deep,2016-06-14,
+WG,Surface,2016-06-14,
+WG,Mid-Depth,2016-06-14,
+WG,Lower Photic,2016-06-14,
+WG,Deep,2016-06-14,
+WP,Surface,2016-06-14,
+WP,Mid-Depth,2016-06-14,
+WP,Lower Photic,2016-06-14,
+WP,Deep,2016-06-14,
+SA,Surface,2016-06-15,
+SA,Mid-Depth,2016-06-15,
+SA,Lower Photic,2016-06-15,
+SA,Deep,2016-06-15,
+WG,Surface,2016-06-15,
+WG,Mid-Depth,2016-06-15,
+WG,Lower Photic,2016-06-15,
+WG,Deep,2016-06-15,
+WP,Surface,2016-06-15,
+WP,Mid-Depth,2016-06-15,
+WP,Lower Photic,2016-06-15,
+WP,Deep,2016-06-15,
+SA,Surface,2016-07-12,
+SA,Mid-Depth,2016-07-12,
+SA,Lower Photic,2016-07-12,
+SA,Deep,2016-07-12,
+WG,Surface,2016-07-12,
+WG,Mid-Depth,2016-07-12,
+WG,Lower Photic,2016-07-12,
+WG,Deep,2016-07-12,
+WP,Surface,2016-07-12,
+WP,Mid-Depth,2016-07-12,
+WP,Lower Photic,2016-07-12,
+WP,Deep,2016-07-12,
+SA,Surface,2016-07-13,
+SA,Mid-Depth,2016-07-13,
+SA,Lower Photic,2016-07-13,
+SA,Deep,2016-07-13,
+WG,Surface,2016-07-13,
+WG,Mid-Depth,2016-07-13,
+WG,Lower Photic,2016-07-13,
+WG,Deep,2016-07-13,
+WP,Surface,2016-07-13,
+WP,Mid-Depth,2016-07-13,
+WP,Lower Photic,2016-07-13,
+WP,Deep,2016-07-13,
+SA,Surface,2016-08-09,
+SA,Mid-Depth,2016-08-09,
+SA,Lower Photic,2016-08-09,
+SA,Deep,2016-08-09,
+WG,Surface,2016-08-09,
+WG,Mid-Depth,2016-08-09,
+WG,Lower Photic,2016-08-09,
+WG,Deep,2016-08-09,
+WP,Surface,2016-08-09,
+WP,Mid-Depth,2016-08-09,
+WP,Lower Photic,2016-08-09,
+WP,Deep,2016-08-09,
+SA,Surface,2016-08-10,
+SA,Mid-Depth,2016-08-10,
+SA,Lower Photic,2016-08-10,
+SA,Deep,2016-08-10,
+WG,Surface,2016-08-10,
+WG,Mid-Depth,2016-08-10,
+WG,Lower Photic,2016-08-10,
+WG,Deep,2016-08-10,
+WP,Surface,2016-08-10,
+WP,Mid-Depth,2016-08-10,
+WP,Lower Photic,2016-08-10,
+WP,Deep,2016-08-10,
+SA,Surface,2016-09-06,
+SA,Mid-Depth,2016-09-06,
+SA,Lower Photic,2016-09-06,
+SA,Deep,2016-09-06,
+WG,Surface,2016-09-06,
+WG,Mid-Depth,2016-09-06,
+WG,Lower Photic,2016-09-06,
+WG,Deep,2016-09-06,
+WP,Surface,2016-09-06,
+WP,Mid-Depth,2016-09-06,
+WP,Lower Photic,2016-09-06,
+WP,Deep,2016-09-06,
+SA,Surface,2016-09-07,
+SA,Mid-Depth,2016-09-07,
+SA,Lower Photic,2016-09-07,
+SA,Deep,2016-09-07,
+WG,Surface,2016-09-07,
+WG,Mid-Depth,2016-09-07,
+WG,Lower Photic,2016-09-07,
+WG,Deep,2016-09-07,
+WP,Surface,2016-09-07,
+WP,Mid-Depth,2016-09-07,
+WP,Lower Photic,2016-09-07,
+WP,Deep,2016-09-07,
+SA,Surface,2016-10-11,
+SA,Mid-Depth,2016-10-11,
+SA,Lower Photic,2016-10-11,
+SA,Deep,2016-10-11,
+WG,Surface,2016-10-11,
+WG,Mid-Depth,2016-10-11,
+WG,Lower Photic,2016-10-11,
+WG,Deep,2016-10-11,
+WP,Surface,2016-10-11,
+WP,Mid-Depth,2016-10-11,
+WP,Lower Photic,2016-10-11,
+WP,Deep,2016-10-11,
+SA,Surface,2016-10-12,
+SA,Mid-Depth,2016-10-12,
+SA,Lower Photic,2016-10-12,
+SA,Deep,2016-10-12,
+WG,Surface,2016-10-12,
+WG,Mid-Depth,2016-10-12,
+WG,Lower Photic,2016-10-12,
+WG,Deep,2016-10-12,
+WP,Surface,2016-10-12,
+WP,Mid-Depth,2016-10-12,
+WP,Lower Photic,2016-10-12,
+WP,Deep,2016-10-12,
+SA,Surface,2016-11-08,
+SA,Mid-Depth,2016-11-08,
+SA,Lower Photic,2016-11-08,
+SA,Deep,2016-11-08,
+WG,Surface,2016-11-08,
+WG,Mid-Depth,2016-11-08,
+WG,Lower Photic,2016-11-08,
+WG,Deep,2016-11-08,
+WP,Surface,2016-11-08,
+WP,Mid-Depth,2016-11-08,
+WP,Lower Photic,2016-11-08,
+WP,Deep,2016-11-08,
+SA,Surface,2016-11-09,
+SA,Mid-Depth,2016-11-09,
+SA,Lower Photic,2016-11-09,
+SA,Deep,2016-11-09,
+WG,Surface,2016-11-09,
+WG,Mid-Depth,2016-11-09,
+WG,Lower Photic,2016-11-09,
+WG,Deep,2016-11-09,
+WP,Surface,2016-11-09,
+WP,Mid-Depth,2016-11-09,
+WP,Lower Photic,2016-11-09,
+WP,Deep,2016-11-09,
+SA,Surface,2016-12-05,
+SA,Mid-Depth,2016-12-05,
+SA,Lower Photic,2016-12-05,
+SA,Deep,2016-12-05,
+WG,Surface,2016-12-05,
+WG,Mid-Depth,2016-12-05,
+WG,Lower Photic,2016-12-05,
+WG,Deep,2016-12-05,
+WP,Surface,2016-12-05,
+WP,Mid-Depth,2016-12-05,
+WP,Lower Photic,2016-12-05,
+WP,Deep,2016-12-05,
+SA,Surface,2017-02-07,
+SA,Mid-Depth,2017-02-07,
+SA,Lower Photic,2017-02-07,
+SA,Deep,2017-02-07,
+WG,Surface,2017-02-07,
+WG,Mid-Depth,2017-02-07,
+WG,Lower Photic,2017-02-07,
+WG,Deep,2017-02-07,
+WP,Surface,2017-02-07,
+WP,Mid-Depth,2017-02-07,
+WP,Lower Photic,2017-02-07,
+WP,Deep,2017-02-07,
+SA,Surface,2017-02-08,
+SA,Mid-Depth,2017-02-08,
+SA,Lower Photic,2017-02-08,
+SA,Deep,2017-02-08,
+WG,Surface,2017-02-08,
+WG,Mid-Depth,2017-02-08,
+WG,Lower Photic,2017-02-08,
+WG,Deep,2017-02-08,
+WP,Surface,2017-02-08,
+WP,Mid-Depth,2017-02-08,
+WP,Lower Photic,2017-02-08,
+WP,Deep,2017-02-08,
+SA,Surface,2017-03-13,
+SA,Mid-Depth,2017-03-13,
+SA,Lower Photic,2017-03-13,
+SA,Deep,2017-03-13,
+WG,Surface,2017-03-13,
+WG,Mid-Depth,2017-03-13,
+WG,Lower Photic,2017-03-13,
+WG,Deep,2017-03-13,
+WP,Surface,2017-03-13,
+WP,Mid-Depth,2017-03-13,
+WP,Lower Photic,2017-03-13,
+WP,Deep,2017-03-13,
+SA,Surface,2017-03-14,
+SA,Mid-Depth,2017-03-14,
+SA,Lower Photic,2017-03-14,
+SA,Deep,2017-03-14,
+WG,Surface,2017-03-14,
+WG,Mid-Depth,2017-03-14,
+WG,Lower Photic,2017-03-14,
+WG,Deep,2017-03-14,
+WP,Surface,2017-03-14,
+WP,Mid-Depth,2017-03-14,
+WP,Lower Photic,2017-03-14,
+WP,Deep,2017-03-14,
+SA,Surface,2017-04-18,
+SA,Mid-Depth,2017-04-18,
+SA,Lower Photic,2017-04-18,
+SA,Deep,2017-04-18,
+WG,Surface,2017-04-18,
+WG,Mid-Depth,2017-04-18,
+WG,Lower Photic,2017-04-18,
+WG,Deep,2017-04-18,
+WP,Surface,2017-04-18,
+WP,Mid-Depth,2017-04-18,
+WP,Lower Photic,2017-04-18,
+WP,Deep,2017-04-18,
+SA,Surface,2017-04-19,
+SA,Mid-Depth,2017-04-19,
+SA,Lower Photic,2017-04-19,
+SA,Deep,2017-04-19,
+WG,Surface,2017-04-19,
+WG,Mid-Depth,2017-04-19,
+WG,Lower Photic,2017-04-19,
+WG,Deep,2017-04-19,
+WP,Surface,2017-04-19,
+WP,Mid-Depth,2017-04-19,
+WP,Lower Photic,2017-04-19,
+WP,Deep,2017-04-19,
+SA,Surface,2017-05-16,
+SA,Mid-Depth,2017-05-16,
+SA,Lower Photic,2017-05-16,
+SA,Deep,2017-05-16,
+WG,Surface,2017-05-16,
+WG,Mid-Depth,2017-05-16,
+WG,Lower Photic,2017-05-16,
+WG,Deep,2017-05-16,
+WP,Surface,2017-05-16,
+WP,Mid-Depth,2017-05-16,
+WP,Lower Photic,2017-05-16,
+WP,Deep,2017-05-16,
+SA,Surface,2017-05-17,
+SA,Mid-Depth,2017-05-17,
+SA,Lower Photic,2017-05-17,
+SA,Deep,2017-05-17,
+WG,Surface,2017-05-17,
+WG,Mid-Depth,2017-05-17,
+WG,Lower Photic,2017-05-17,
+WG,Deep,2017-05-17,
+WP,Surface,2017-05-17,
+WP,Mid-Depth,2017-05-17,
+WP,Lower Photic,2017-05-17,
+WP,Deep,2017-05-17,
+SA,Surface,2017-06-13,
+SA,Mid-Depth,2017-06-13,
+SA,Lower Photic,2017-06-13,
+SA,Deep,2017-06-13,
+WG,Surface,2017-06-13,
+WG,Mid-Depth,2017-06-13,
+WG,Lower Photic,2017-06-13,
+WG,Deep,2017-06-13,
+WP,Surface,2017-06-13,
+WP,Mid-Depth,2017-06-13,
+WP,Lower Photic,2017-06-13,
+WP,Deep,2017-06-13,
+SA,Surface,2017-06-21,
+SA,Mid-Depth,2017-06-21,
+SA,Lower Photic,2017-06-21,
+SA,Deep,2017-06-21,
+WG,Surface,2017-06-21,
+WG,Mid-Depth,2017-06-21,
+WG,Lower Photic,2017-06-21,
+WG,Deep,2017-06-21,
+WP,Surface,2017-06-21,
+WP,Mid-Depth,2017-06-21,
+WP,Lower Photic,2017-06-21,
+WP,Deep,2017-06-21,
+SA,Surface,2017-07-11,
+SA,Mid-Depth,2017-07-11,
+SA,Lower Photic,2017-07-11,
+SA,Deep,2017-07-11,
+WG,Surface,2017-07-11,
+WG,Mid-Depth,2017-07-11,
+WG,Lower Photic,2017-07-11,
+WG,Deep,2017-07-11,
+WP,Surface,2017-07-11,
+WP,Mid-Depth,2017-07-11,
+WP,Lower Photic,2017-07-11,
+WP,Deep,2017-07-11,
+SA,Surface,2017-07-12,
+SA,Mid-Depth,2017-07-12,
+SA,Lower Photic,2017-07-12,
+SA,Deep,2017-07-12,
+WG,Surface,2017-07-12,
+WG,Mid-Depth,2017-07-12,
+WG,Lower Photic,2017-07-12,
+WG,Deep,2017-07-12,
+WP,Surface,2017-07-12,
+WP,Mid-Depth,2017-07-12,
+WP,Lower Photic,2017-07-12,
+WP,Deep,2017-07-12,
+SA,Surface,2017-08-08,
+SA,Mid-Depth,2017-08-08,
+SA,Lower Photic,2017-08-08,
+SA,Deep,2017-08-08,
+WG,Surface,2017-08-08,
+WG,Mid-Depth,2017-08-08,
+WG,Lower Photic,2017-08-08,
+WG,Deep,2017-08-08,
+WP,Surface,2017-08-08,
+WP,Mid-Depth,2017-08-08,
+WP,Lower Photic,2017-08-08,
+WP,Deep,2017-08-08,
+SA,Surface,2017-08-09,
+SA,Mid-Depth,2017-08-09,
+SA,Lower Photic,2017-08-09,
+SA,Deep,2017-08-09,
+WG,Surface,2017-08-09,
+WG,Mid-Depth,2017-08-09,
+WG,Lower Photic,2017-08-09,
+WG,Deep,2017-08-09,
+WP,Surface,2017-08-09,
+WP,Mid-Depth,2017-08-09,
+WP,Lower Photic,2017-08-09,
+WP,Deep,2017-08-09,
+SA,Surface,2017-09-12,
+SA,Mid-Depth,2017-09-12,
+SA,Lower Photic,2017-09-12,
+SA,Deep,2017-09-12,
+WG,Surface,2017-09-12,
+WG,Mid-Depth,2017-09-12,
+WG,Lower Photic,2017-09-12,
+WG,Deep,2017-09-12,
+WP,Surface,2017-09-12,
+WP,Mid-Depth,2017-09-12,
+WP,Lower Photic,2017-09-12,
+WP,Deep,2017-09-12,
+SA,Surface,2017-09-13,
+SA,Mid-Depth,2017-09-13,
+SA,Lower Photic,2017-09-13,
+SA,Deep,2017-09-13,
+WG,Surface,2017-09-13,
+WG,Mid-Depth,2017-09-13,
+WG,Lower Photic,2017-09-13,
+WG,Deep,2017-09-13,
+WP,Surface,2017-09-13,
+WP,Mid-Depth,2017-09-13,
+WP,Lower Photic,2017-09-13,
+WP,Deep,2017-09-13,
+SA,Surface,2017-10-12,
+SA,Mid-Depth,2017-10-12,
+SA,Lower Photic,2017-10-12,
+SA,Deep,2017-10-12,
+WG,Surface,2017-10-12,
+WG,Mid-Depth,2017-10-12,
+WG,Lower Photic,2017-10-12,
+WG,Deep,2017-10-12,
+WP,Surface,2017-10-12,
+WP,Mid-Depth,2017-10-12,
+WP,Lower Photic,2017-10-12,
+WP,Deep,2017-10-12,
+SA,Surface,2017-10-13,
+SA,Mid-Depth,2017-10-13,
+SA,Lower Photic,2017-10-13,
+SA,Deep,2017-10-13,
+WG,Surface,2017-10-13,
+WG,Mid-Depth,2017-10-13,
+WG,Lower Photic,2017-10-13,
+WG,Deep,2017-10-13,
+WP,Surface,2017-10-13,
+WP,Mid-Depth,2017-10-13,
+WP,Lower Photic,2017-10-13,
+WP,Deep,2017-10-13,
+SA,Surface,2017-11-07,
+SA,Mid-Depth,2017-11-07,
+SA,Lower Photic,2017-11-07,
+SA,Deep,2017-11-07,
+WG,Surface,2017-11-07,
+WG,Mid-Depth,2017-11-07,
+WG,Lower Photic,2017-11-07,
+WG,Deep,2017-11-07,
+WP,Surface,2017-11-07,
+WP,Mid-Depth,2017-11-07,
+WP,Lower Photic,2017-11-07,
+WP,Deep,2017-11-07,
+SA,Surface,2017-11-08,
+SA,Mid-Depth,2017-11-08,
+SA,Lower Photic,2017-11-08,
+SA,Deep,2017-11-08,
+WG,Surface,2017-11-08,
+WG,Mid-Depth,2017-11-08,
+WG,Lower Photic,2017-11-08,
+WG,Deep,2017-11-08,
+WP,Surface,2017-11-08,
+WP,Mid-Depth,2017-11-08,
+WP,Lower Photic,2017-11-08,
+WP,Deep,2017-11-08,
+SA,Surface,2017-12-13,
+SA,Mid-Depth,2017-12-13,
+SA,Lower Photic,2017-12-13,
+SA,Deep,2017-12-13,
+WG,Surface,2017-12-13,
+WG,Mid-Depth,2017-12-13,
+WG,Lower Photic,2017-12-13,
+WG,Deep,2017-12-13,
+WP,Surface,2017-12-13,
+WP,Mid-Depth,2017-12-13,
+WP,Lower Photic,2017-12-13,
+WP,Deep,2017-12-13,
+SA,Surface,2017-12-14,
+SA,Mid-Depth,2017-12-14,
+SA,Lower Photic,2017-12-14,
+SA,Deep,2017-12-14,
+WG,Surface,2017-12-14,
+WG,Mid-Depth,2017-12-14,
+WG,Lower Photic,2017-12-14,
+WG,Deep,2017-12-14,
+WP,Surface,2017-12-14,
+WP,Mid-Depth,2017-12-14,
+WP,Lower Photic,2017-12-14,
+WP,Deep,2017-12-14,
+SA,Surface,2018-01-11,
+SA,Mid-Depth,2018-01-11,
+SA,Lower Photic,2018-01-11,
+SA,Deep,2018-01-11,
+WG,Surface,2018-01-11,
+WG,Mid-Depth,2018-01-11,
+WG,Lower Photic,2018-01-11,
+WG,Deep,2018-01-11,
+WP,Surface,2018-01-11,
+WP,Mid-Depth,2018-01-11,
+WP,Lower Photic,2018-01-11,
+WP,Deep,2018-01-11,
+SA,Surface,2018-02-07,
+SA,Mid-Depth,2018-02-07,
+SA,Lower Photic,2018-02-07,
+SA,Deep,2018-02-07,
+WG,Surface,2018-02-07,
+WG,Mid-Depth,2018-02-07,
+WG,Lower Photic,2018-02-07,
+WG,Deep,2018-02-07,
+WP,Surface,2018-02-07,
+WP,Mid-Depth,2018-02-07,
+WP,Lower Photic,2018-02-07,
+WP,Deep,2018-02-07,
+SA,Surface,2018-02-28,
+SA,Mid-Depth,2018-02-28,
+SA,Lower Photic,2018-02-28,
+SA,Deep,2018-02-28,
+WG,Surface,2018-02-28,
+WG,Mid-Depth,2018-02-28,
+WG,Lower Photic,2018-02-28,
+WG,Deep,2018-02-28,
+WP,Surface,2018-02-28,
+WP,Mid-Depth,2018-02-28,
+WP,Lower Photic,2018-02-28,
+WP,Deep,2018-02-28,
+SA,Surface,2018-03-13,
+SA,Mid-Depth,2018-03-13,
+SA,Lower Photic,2018-03-13,
+SA,Deep,2018-03-13,
+WG,Surface,2018-03-13,
+WG,Mid-Depth,2018-03-13,
+WG,Lower Photic,2018-03-13,
+WG,Deep,2018-03-13,
+WP,Surface,2018-03-13,
+WP,Mid-Depth,2018-03-13,
+WP,Lower Photic,2018-03-13,
+WP,Deep,2018-03-13,
+SA,Surface,2018-03-15,
+SA,Mid-Depth,2018-03-15,
+SA,Lower Photic,2018-03-15,
+SA,Deep,2018-03-15,
+WG,Surface,2018-03-15,
+WG,Mid-Depth,2018-03-15,
+WG,Lower Photic,2018-03-15,
+WG,Deep,2018-03-15,
+WP,Surface,2018-03-15,
+WP,Mid-Depth,2018-03-15,
+WP,Lower Photic,2018-03-15,
+WP,Deep,2018-03-15,
+SA,Surface,2018-04-10,
+SA,Mid-Depth,2018-04-10,
+SA,Lower Photic,2018-04-10,
+SA,Deep,2018-04-10,
+WG,Surface,2018-04-10,
+WG,Mid-Depth,2018-04-10,
+WG,Lower Photic,2018-04-10,
+WG,Deep,2018-04-10,
+WP,Surface,2018-04-10,
+WP,Mid-Depth,2018-04-10,
+WP,Lower Photic,2018-04-10,
+WP,Deep,2018-04-10,
+SA,Surface,2018-04-12,
+SA,Mid-Depth,2018-04-12,
+SA,Lower Photic,2018-04-12,
+SA,Deep,2018-04-12,
+WG,Surface,2018-04-12,
+WG,Mid-Depth,2018-04-12,
+WG,Lower Photic,2018-04-12,
+WG,Deep,2018-04-12,
+WP,Surface,2018-04-12,
+WP,Mid-Depth,2018-04-12,
+WP,Lower Photic,2018-04-12,
+WP,Deep,2018-04-12,
+SA,Surface,2018-05-15,
+SA,Mid-Depth,2018-05-15,
+SA,Lower Photic,2018-05-15,
+SA,Deep,2018-05-15,
+WG,Surface,2018-05-15,
+WG,Mid-Depth,2018-05-15,
+WG,Lower Photic,2018-05-15,
+WG,Deep,2018-05-15,
+WP,Surface,2018-05-15,
+WP,Mid-Depth,2018-05-15,
+WP,Lower Photic,2018-05-15,
+WP,Deep,2018-05-15,
+SA,Surface,2018-05-16,
+SA,Mid-Depth,2018-05-16,
+SA,Lower Photic,2018-05-16,
+SA,Deep,2018-05-16,
+WG,Surface,2018-05-16,
+WG,Mid-Depth,2018-05-16,
+WG,Lower Photic,2018-05-16,
+WG,Deep,2018-05-16,
+WP,Surface,2018-05-16,
+WP,Mid-Depth,2018-05-16,
+WP,Lower Photic,2018-05-16,
+WP,Deep,2018-05-16,
+SA,Surface,2018-06-12,
+SA,Mid-Depth,2018-06-12,
+SA,Lower Photic,2018-06-12,
+SA,Deep,2018-06-12,
+WG,Surface,2018-06-12,
+WG,Mid-Depth,2018-06-12,
+WG,Lower Photic,2018-06-12,
+WG,Deep,2018-06-12,
+WP,Surface,2018-06-12,
+WP,Mid-Depth,2018-06-12,
+WP,Lower Photic,2018-06-12,
+WP,Deep,2018-06-12,
+SA,Surface,2018-06-13,
+SA,Mid-Depth,2018-06-13,
+SA,Lower Photic,2018-06-13,
+SA,Deep,2018-06-13,
+WG,Surface,2018-06-13,
+WG,Mid-Depth,2018-06-13,
+WG,Lower Photic,2018-06-13,
+WG,Deep,2018-06-13,
+WP,Surface,2018-06-13,
+WP,Mid-Depth,2018-06-13,
+WP,Lower Photic,2018-06-13,
+WP,Deep,2018-06-13,
+SA,Surface,2018-07-17,
+SA,Mid-Depth,2018-07-17,
+SA,Lower Photic,2018-07-17,
+SA,Deep,2018-07-17,
+WG,Surface,2018-07-17,
+WG,Mid-Depth,2018-07-17,
+WG,Lower Photic,2018-07-17,
+WG,Deep,2018-07-17,
+WP,Surface,2018-07-17,
+WP,Mid-Depth,2018-07-17,
+WP,Lower Photic,2018-07-17,
+WP,Deep,2018-07-17,
+SA,Surface,2018-07-18,
+SA,Mid-Depth,2018-07-18,
+SA,Lower Photic,2018-07-18,
+SA,Deep,2018-07-18,
+WG,Surface,2018-07-18,
+WG,Mid-Depth,2018-07-18,
+WG,Lower Photic,2018-07-18,
+WG,Deep,2018-07-18,
+WP,Surface,2018-07-18,
+WP,Mid-Depth,2018-07-18,
+WP,Lower Photic,2018-07-18,
+WP,Deep,2018-07-18,
+SA,Surface,2018-08-14,
+SA,Mid-Depth,2018-08-14,
+SA,Lower Photic,2018-08-14,
+SA,Deep,2018-08-14,
+WG,Surface,2018-08-14,
+WG,Mid-Depth,2018-08-14,
+WG,Lower Photic,2018-08-14,
+WG,Deep,2018-08-14,
+WP,Surface,2018-08-14,
+WP,Mid-Depth,2018-08-14,
+WP,Lower Photic,2018-08-14,
+WP,Deep,2018-08-14,
+SA,Surface,2018-08-16,
+SA,Mid-Depth,2018-08-16,
+SA,Lower Photic,2018-08-16,
+SA,Deep,2018-08-16,
+WG,Surface,2018-08-16,
+WG,Mid-Depth,2018-08-16,
+WG,Lower Photic,2018-08-16,
+WG,Deep,2018-08-16,
+WP,Surface,2018-08-16,
+WP,Mid-Depth,2018-08-16,
+WP,Lower Photic,2018-08-16,
+WP,Deep,2018-08-16,
+SA,Surface,2018-09-11,
+SA,Mid-Depth,2018-09-11,
+SA,Lower Photic,2018-09-11,
+SA,Deep,2018-09-11,
+WG,Surface,2018-09-11,
+WG,Mid-Depth,2018-09-11,
+WG,Lower Photic,2018-09-11,
+WG,Deep,2018-09-11,
+WP,Surface,2018-09-11,
+WP,Mid-Depth,2018-09-11,
+WP,Lower Photic,2018-09-11,
+WP,Deep,2018-09-11,
+SA,Surface,2018-09-12,
+SA,Mid-Depth,2018-09-12,
+SA,Lower Photic,2018-09-12,
+SA,Deep,2018-09-12,
+WG,Surface,2018-09-12,
+WG,Mid-Depth,2018-09-12,
+WG,Lower Photic,2018-09-12,
+WG,Deep,2018-09-12,
+WP,Surface,2018-09-12,
+WP,Mid-Depth,2018-09-12,
+WP,Lower Photic,2018-09-12,
+WP,Deep,2018-09-12,
+SA,Surface,2018-09-24,
+SA,Mid-Depth,2018-09-24,
+SA,Lower Photic,2018-09-24,
+SA,Deep,2018-09-24,
+WG,Surface,2018-09-24,
+WG,Mid-Depth,2018-09-24,
+WG,Lower Photic,2018-09-24,
+WG,Deep,2018-09-24,
+WP,Surface,2018-09-24,
+WP,Mid-Depth,2018-09-24,
+WP,Lower Photic,2018-09-24,
+WP,Deep,2018-09-24,
+SA,Surface,2018-10-10,
+SA,Mid-Depth,2018-10-10,
+SA,Lower Photic,2018-10-10,
+SA,Deep,2018-10-10,
+WG,Surface,2018-10-10,
+WG,Mid-Depth,2018-10-10,
+WG,Lower Photic,2018-10-10,
+WG,Deep,2018-10-10,
+WP,Surface,2018-10-10,
+WP,Mid-Depth,2018-10-10,
+WP,Lower Photic,2018-10-10,
+WP,Deep,2018-10-10,
+SA,Surface,2018-11-14,
+SA,Mid-Depth,2018-11-14,
+SA,Lower Photic,2018-11-14,
+SA,Deep,2018-11-14,
+WG,Surface,2018-11-14,
+WG,Mid-Depth,2018-11-14,
+WG,Lower Photic,2018-11-14,
+WG,Deep,2018-11-14,
+WP,Surface,2018-11-14,
+WP,Mid-Depth,2018-11-14,
+WP,Lower Photic,2018-11-14,
+WP,Deep,2018-11-14,
+SA,Surface,2018-12-12,
+SA,Mid-Depth,2018-12-12,
+SA,Lower Photic,2018-12-12,
+SA,Deep,2018-12-12,
+WG,Surface,2018-12-12,
+WG,Mid-Depth,2018-12-12,
+WG,Lower Photic,2018-12-12,
+WG,Deep,2018-12-12,
+WP,Surface,2018-12-12,
+WP,Mid-Depth,2018-12-12,
+WP,Lower Photic,2018-12-12,
+WP,Deep,2018-12-12,
+SA,Surface,2019-02-12,
+SA,Mid-Depth,2019-02-12,
+SA,Lower Photic,2019-02-12,
+SA,Deep,2019-02-12,
+WG,Surface,2019-02-12,
+WG,Mid-Depth,2019-02-12,
+WG,Lower Photic,2019-02-12,
+WG,Deep,2019-02-12,
+WP,Surface,2019-02-12,
+WP,Mid-Depth,2019-02-12,
+WP,Lower Photic,2019-02-12,
+WP,Deep,2019-02-12,
+SA,Surface,2019-03-12,304.54545454545456
+SA,Mid-Depth,2019-03-12,304.3
+SA,Lower Photic,2019-03-12,306.3
+SA,Deep,2019-03-12,306.7894736842105
+WG,Surface,2019-03-12,303.0
+WG,Mid-Depth,2019-03-12,303.1
+WG,Lower Photic,2019-03-12,304.0
+WG,Deep,2019-03-12,303.53968253968253
+WP,Surface,2019-03-12,303.0
+WP,Mid-Depth,2019-03-12,303.0
+WP,Lower Photic,2019-03-12,303.5
+WP,Deep,2019-03-12,303.96078431372547
+SA,Surface,2019-04-09,304.8181818181818
+SA,Mid-Depth,2019-04-09,305.4
+SA,Lower Photic,2019-04-09,306.44444444444446
+SA,Deep,2019-04-09,309.0
+WG,Surface,2019-04-09,304.09090909090907
+WG,Mid-Depth,2019-04-09,304.0
+WG,Lower Photic,2019-04-09,304.8
+WG,Deep,2019-04-09,304.13793103448273
+WP,Surface,2019-04-09,304.1818181818182
+WP,Mid-Depth,2019-04-09,304.0
+WP,Lower Photic,2019-04-09,304.4
+WP,Deep,2019-04-09,304.0
+SA,Surface,2019-05-14,320.72727272727275
+SA,Mid-Depth,2019-05-14,320.9
+SA,Lower Photic,2019-05-14,324.8
+SA,Deep,2019-05-14,324.7894736842105
+WG,Surface,2019-05-14,319.0
+WG,Mid-Depth,2019-05-14,319.7
+WG,Lower Photic,2019-05-14,320.6
+WG,Deep,2019-05-14,319.3965517241379
+WP,Surface,2019-05-14,320.0
+WP,Mid-Depth,2019-05-14,320.0
+WP,Lower Photic,2019-05-14,320.0
+WP,Deep,2019-05-14,319.35087719298247
+SA,Surface,2019-06-12,318.45454545454544
+SA,Mid-Depth,2019-06-12,318.4
+SA,Lower Photic,2019-06-12,324.6
+SA,Deep,2019-06-12,326.0
+WG,Surface,2019-06-12,318.0
+WG,Mid-Depth,2019-06-12,318.3333333333333
+WG,Lower Photic,2019-06-12,320.6
+WG,Deep,2019-06-12,319.5272727272727
+WP,Surface,2019-06-12,318.0
+WP,Mid-Depth,2019-06-12,318.2
+WP,Lower Photic,2019-06-12,320.0
+WP,Deep,2019-06-12,319.3921568627451
+SA,Surface,2019-07-12,245.0
+SA,Mid-Depth,2019-07-12,245.0
+SA,Lower Photic,2019-07-12,248.6165757611948
+SA,Deep,2019-07-12,250.173594525848
+WG,Surface,2019-07-12,245.0
+WG,Mid-Depth,2019-07-12,245.0
+WG,Lower Photic,2019-07-12,246.49526235546145
+WG,Deep,2019-07-12,245.9359159848405
+WP,Surface,2019-07-12,245.0
+WP,Mid-Depth,2019-07-12,245.0
+WP,Lower Photic,2019-07-12,247.7123517169664
+WP,Deep,2019-07-12,245.94677810934377
+SA,Surface,2019-08-13,292.81930432687363
+SA,Mid-Depth,2019-08-13,293.3428045823422
+SA,Lower Photic,2019-08-13,294.82751572313373
+SA,Deep,2019-08-13,297.2905320634353
+WG,Surface,2019-08-13,306.5024214750242
+WG,Mid-Depth,2019-08-13,306.5742770167428
+WG,Lower Photic,2019-08-13,307.4054794520548
+WG,Deep,2019-08-13,306.6785478935534
+WP,Surface,2019-08-13,245.32478019378289
+WP,Mid-Depth,2019-08-13,245.1195693641457
+WP,Lower Photic,2019-08-13,246.0005512518541
+WP,Deep,2019-08-13,246.35254357802484
+SA,Surface,2019-09-10,244.9671114441927
+SA,Mid-Depth,2019-09-10,245.5646885918992
+SA,Lower Photic,2019-09-10,246.63695538180417
+SA,Deep,2019-09-10,250.42601928856604
+WG,Surface,2019-09-10,307.54652923648086
+WG,Mid-Depth,2019-09-10,307.62498656636217
+WG,Lower Photic,2019-09-10,308.8507254164428
+WG,Deep,2019-09-10,308.1350069412142
+WP,Surface,2019-09-10,245.5607719094909
+WP,Mid-Depth,2019-09-10,244.99423709427532
+WP,Lower Photic,2019-09-10,245.98959772585584
+WP,Deep,2019-09-10,246.53423336922128
+SA,Surface,2020-01-23,288.7254535621221
+SA,Mid-Depth,2020-01-23,288.62898864250946
+SA,Lower Photic,2020-01-23,292.60333085986
+SA,Deep,2020-01-23,293.76786924785347
+WG,Surface,2020-01-23,245.0
+WG,Mid-Depth,2020-01-23,245.0
+WG,Lower Photic,2020-01-23,245.0
+WG,Deep,2020-01-23,245.6369219289608
+WP,Surface,2020-01-23,245.0
+WP,Mid-Depth,2020-01-23,245.0
+WP,Lower Photic,2020-01-23,245.0
+WP,Deep,2020-01-23,245.6369219289608
+SA,Surface,2020-02-11,243.85326456724272
+SA,Mid-Depth,2020-02-11,245.6169866737783
+SA,Lower Photic,2020-02-11,246.8593519058977
+SA,Deep,2020-02-11,248.08482626237924
+WG,Surface,2020-02-11,245.00000000000009
+WG,Mid-Depth,2020-02-11,245.0
+WG,Lower Photic,2020-02-11,244.98901870394064
+WG,Deep,2020-02-11,245.83430137155923
+WP,Surface,2020-02-11,241.66506408640828
+WP,Mid-Depth,2020-02-11,245.0
+WP,Lower Photic,2020-02-11,245.0
+WP,Deep,2020-02-11,245.9372241244535
+SA,Surface,2020-03-10,241.58638864691892
+SA,Mid-Depth,2020-03-10,242.03484981071773
+SA,Lower Photic,2020-03-10,242.752180133778
+SA,Deep,2020-03-10,251.22388287655576
+WG,Surface,2020-03-10,245.9573610724933
+WG,Mid-Depth,2020-03-10,246.0
+WG,Lower Photic,2020-03-10,246.0
+WG,Deep,2020-03-10,246.0
+WP,Surface,2020-03-10,246.0
+WP,Mid-Depth,2020-03-10,246.0
+WP,Lower Photic,2020-03-10,246.0
+WP,Deep,2020-03-10,246.0
+SA,Surface,2020-04-14,242.86187721605108
+SA,Mid-Depth,2020-04-14,243.5377080689707
+SA,Lower Photic,2020-04-14,245.6888529530388
+SA,Deep,2020-04-14,250.704903376392
+WG,Surface,2020-04-14,242.515168744139
+WG,Mid-Depth,2020-04-14,245.9692750743932
+WG,Lower Photic,2020-04-14,246.0
+WG,Deep,2020-04-14,246.58908691497737
+WP,Surface,2020-04-14,243.43352408628368
+WP,Mid-Depth,2020-04-14,243.54266451707463
+WP,Lower Photic,2020-04-14,243.7183073130813
+WP,Deep,2020-04-14,246.4244572063826
+SA,Surface,2020-05-12,247.0
+SA,Mid-Depth,2020-05-12,246.9980831293627
+SA,Lower Photic,2020-05-12,249.09193967611083
+SA,Deep,2020-05-12,250.6968245646057
+WG,Surface,2020-05-12,247.0
+WG,Mid-Depth,2020-05-12,246.9664673637375
+WG,Lower Photic,2020-05-12,249.6409042248938
+WG,Deep,2020-05-12,247.0
+WP,Surface,2020-05-12,242.6706008508513
+WP,Mid-Depth,2020-05-12,244.078580444734
+WP,Lower Photic,2020-05-12,244.6314133948448
+WP,Deep,2020-05-12,246.60269643447
+SA,Surface,2020-06-09,244.0
+SA,Mid-Depth,2020-06-09,243.9330889443179
+SA,Lower Photic,2020-06-09,244.789104986564
+SA,Deep,2020-06-09,251.5216184757324
+WG,Surface,2020-06-09,244.0
+WG,Mid-Depth,2020-06-09,244.0
+WG,Lower Photic,2020-06-09,247.1315323780925
+WG,Deep,2020-06-09,246.99944759700668
+WP,Surface,2020-06-09,243.53413551298408
+WP,Mid-Depth,2020-06-09,243.6687009590236
+WP,Lower Photic,2020-06-09,243.85804438046475
+WP,Deep,2020-06-09,246.64563151047332
+SA,Surface,2020-07-14,243.0
+SA,Mid-Depth,2020-07-14,243.4849199289249
+SA,Lower Photic,2020-07-14,246.0958133175287
+SA,Deep,2020-07-14,251.85146469830468
+WG,Surface,2020-07-14,244.0
+WG,Mid-Depth,2020-07-14,244.0
+WG,Lower Photic,2020-07-14,245.0789520412697
+WG,Deep,2020-07-14,247.3239525764025
+WP,Surface,2020-07-14,242.8410497809712
+WP,Mid-Depth,2020-07-14,242.99452954048132
+WP,Lower Photic,2020-07-14,243.2621688592624
+WP,Deep,2020-07-14,246.8599297215478
+SA,Surface,2020-08-11,243.0
+SA,Mid-Depth,2020-08-11,243.00459203435463
+SA,Lower Photic,2020-08-11,246.3759134587825
+SA,Deep,2020-08-11,252.0918045881555
+WG,Surface,2020-08-11,243.0
+WG,Mid-Depth,2020-08-11,243.0
+WG,Lower Photic,2020-08-11,244.6477368108887
+WG,Deep,2020-08-11,247.77937621450465
+WP,Surface,2020-08-11,242.17349405104736
+WP,Mid-Depth,2020-08-11,242.7589002632787
+WP,Lower Photic,2020-08-11,244.10351442070944
+WP,Deep,2020-08-11,247.53679467922777
+SA,Surface,2020-09-08,242.0
+SA,Mid-Depth,2020-09-08,242.179377837235
+SA,Lower Photic,2020-09-08,245.83865600496128
+SA,Deep,2020-09-08,253.48071607582887
+WG,Surface,2020-09-08,236.1953281810225
+WG,Mid-Depth,2020-09-08,240.3180131639434
+WG,Lower Photic,2020-09-08,242.4124500393696
+WG,Deep,2020-09-08,247.44212286438648
+WP,Surface,2020-09-08,242.0
+WP,Mid-Depth,2020-09-08,242.0
+WP,Lower Photic,2020-09-08,242.5966398472337
+WP,Deep,2020-09-08,247.4263048594937
+SA,Surface,2020-10-13,239.6930749039501
+SA,Mid-Depth,2020-10-13,240.940618210382
+SA,Lower Photic,2020-10-13,241.7843088136358
+SA,Deep,2020-10-13,253.11879845263456
+WG,Surface,2020-10-13,238.13406550275064
+WG,Mid-Depth,2020-10-13,240.0
+WG,Lower Photic,2020-10-13,241.4978631177915
+WG,Deep,2020-10-13,248.08852634308388
+WP,Surface,2020-10-13,233.6417290817519
+WP,Mid-Depth,2020-10-13,237.7643771888101
+WP,Lower Photic,2020-10-13,240.19452360192616
+WP,Deep,2020-10-13,247.8196179469197
+SA,Surface,2020-11-10,242.3596598783253
+SA,Mid-Depth,2020-11-10,242.3199819180495
+SA,Lower Photic,2020-11-10,242.8893490047197
+SA,Deep,2020-11-10,249.57779667691176
+WG,Surface,2020-11-10,242.0
+WG,Mid-Depth,2020-11-10,242.0
+WG,Lower Photic,2020-11-10,242.0
+WG,Deep,2020-11-10,247.41191564603704
+WP,Surface,2020-11-10,237.2837486629692
+WP,Mid-Depth,2020-11-10,240.22925379420852
+WP,Lower Photic,2020-11-10,241.1249970824641
+WP,Deep,2020-11-10,247.441493343276
+SA,Surface,2020-12-08,243.5640050771285
+SA,Mid-Depth,2020-12-08,245.0
+SA,Lower Photic,2020-12-08,245.0
+SA,Deep,2020-12-08,246.35054177687084
+WG,Surface,2020-12-08,243.0
+WG,Mid-Depth,2020-12-08,243.0
+WG,Lower Photic,2020-12-08,243.0588306574556
+WG,Deep,2020-12-08,247.0270751043784
+WP,Surface,2020-12-08,242.6198360428393
+WP,Mid-Depth,2020-12-08,243.0
+WP,Lower Photic,2020-12-08,243.0
+WP,Deep,2020-12-08,246.5452324474317
+SA,Surface,2021-01-19,230.89614360400228
+SA,Mid-Depth,2021-01-19,243.6060296005552
+SA,Lower Photic,2021-01-19,245.6552499195246
+SA,Deep,2021-01-19,246.99935284085663
+WG,Surface,2021-01-19,245.0
+WG,Mid-Depth,2021-01-19,245.0
+WG,Lower Photic,2021-01-19,245.0
+WG,Deep,2021-01-19,246.7008057278348
+WP,Surface,2021-01-19,244.847708400742
+WP,Mid-Depth,2021-01-19,245.0
+WP,Lower Photic,2021-01-19,245.0
+WP,Deep,2021-01-19,245.9684513509617
+SA,Surface,2021-02-16,246.24532798262612
+SA,Mid-Depth,2021-02-16,247.0
+SA,Lower Photic,2021-02-16,247.66259239048208
+SA,Deep,2021-02-16,249.36582762802848
+WG,Surface,2021-02-16,246.0
+WG,Mid-Depth,2021-02-16,246.0
+WG,Lower Photic,2021-02-16,246.0
+WG,Deep,2021-02-16,246.48498441046013
+WP,Surface,2021-02-16,243.9882934934785
+WP,Mid-Depth,2021-02-16,244.999288005716
+WP,Lower Photic,2021-02-16,245.9712811401987
+WP,Deep,2021-02-16,246.56565740778169
+SA,Surface,2021-03-16,247.7688747146387
+SA,Mid-Depth,2021-03-16,247.5414806888335
+SA,Lower Photic,2021-03-16,248.8880498592216
+SA,Deep,2021-03-16,249.20019833507808
+WG,Surface,2021-03-16,247.0
+WG,Mid-Depth,2021-03-16,247.0
+WG,Lower Photic,2021-03-16,247.0
+WG,Deep,2021-03-16,247.2972106838463
+WP,Surface,2021-03-16,247.1624183400368
+WP,Mid-Depth,2021-03-16,247.0
+WP,Lower Photic,2021-03-16,247.0
+WP,Deep,2021-03-16,247.0202882443214
+SA,Surface,2021-04-13,247.826301711086
+SA,Mid-Depth,2021-04-13,248.02303619599
+SA,Lower Photic,2021-04-13,250.0618012780344
+SA,Deep,2021-04-13,251.91623301943287
+WG,Surface,2021-04-13,248.0
+WG,Mid-Depth,2021-04-13,247.42945767263768
+WG,Lower Photic,2021-04-13,247.6506164360631
+WG,Deep,2021-04-13,248.0
+WP,Surface,2021-04-13,247.0
+WP,Mid-Depth,2021-04-13,247.0
+WP,Lower Photic,2021-04-13,247.0
+WP,Deep,2021-04-13,247.02271927259048
+SA,Surface,2021-05-11,246.0
+SA,Mid-Depth,2021-05-11,246.5377458801266
+SA,Lower Photic,2021-05-11,249.75255508618253
+SA,Deep,2021-05-11,251.0
+WG,Surface,2021-05-11,247.0
+WG,Mid-Depth,2021-05-11,247.0074573108323
+WG,Lower Photic,2021-05-11,247.973678052187
+WG,Deep,2021-05-11,248.0
+WP,Surface,2021-05-11,246.69306884069027
+WP,Mid-Depth,2021-05-11,247.00258013246548
+WP,Lower Photic,2021-05-11,247.0128855603602
+WP,Deep,2021-05-11,247.9978552544937
+SA,Surface,2021-06-08,245.27272727272728
+SA,Mid-Depth,2021-06-08,246.8
+SA,Lower Photic,2021-06-08,251.3
+SA,Deep,2021-06-08,251.75
+WG,Surface,2021-06-08,245.0
+WG,Mid-Depth,2021-06-08,246.0
+WG,Lower Photic,2021-06-08,247.7
+WG,Deep,2021-06-08,248.0
+WP,Surface,2021-06-08,246.0
+WP,Mid-Depth,2021-06-08,246.6
+WP,Lower Photic,2021-06-08,248.5
+WP,Deep,2021-06-08,248.0
+SA,Surface,2021-07-13,243.0
+SA,Mid-Depth,2021-07-13,243.0
+SA,Lower Photic,2021-07-13,248.5764940483733
+SA,Deep,2021-07-13,251.6831005940141
+WG,Surface,2021-07-13,244.0
+WG,Mid-Depth,2021-07-13,243.9941798183069
+WG,Lower Photic,2021-07-13,247.9501918322763
+WG,Deep,2021-07-13,248.0
+WP,Surface,2021-07-13,243.0
+WP,Mid-Depth,2021-07-13,243.2081904902001
+WP,Lower Photic,2021-07-13,245.5654327698503
+WP,Deep,2021-07-13,248.000001344655
+SA,Surface,2021-08-10,240.75340328577025
+SA,Mid-Depth,2021-08-10,243.7802933243872
+SA,Lower Photic,2021-08-10,246.8771982349418
+SA,Deep,2021-08-10,252.1753535675823
+WG,Surface,2021-08-10,243.67262354570136
+WG,Mid-Depth,2021-08-10,243.9951291256451
+WG,Lower Photic,2021-08-10,246.5970883587545
+WG,Deep,2021-08-10,248.0925174431528
+WP,Surface,2021-08-10,244.0
+WP,Mid-Depth,2021-08-10,243.5346512094674
+WP,Lower Photic,2021-08-10,245.541264379231
+WP,Deep,2021-08-10,248.75244901715035
+SA,Surface,2021-09-07,242.11952484457044
+SA,Mid-Depth,2021-09-07,242.3045734449503
+SA,Lower Photic,2021-09-07,244.4389306302749
+SA,Deep,2021-09-07,252.6296101754882
+WG,Surface,2021-09-07,242.0
+WG,Mid-Depth,2021-09-07,242.03922806082284
+WG,Lower Photic,2021-09-07,244.96590561063348
+WG,Deep,2021-09-07,248.4419257282619
+WP,Surface,2021-09-07,242.0
+WP,Mid-Depth,2021-09-07,242.0335289617471
+WP,Lower Photic,2021-09-07,244.4676782628991
+WP,Deep,2021-09-07,248.6664942079652
+SA,Surface,2021-10-12,242.0
+SA,Mid-Depth,2021-10-12,242.02701357489792
+SA,Lower Photic,2021-10-12,246.4469193351736
+SA,Deep,2021-10-12,253.3973978607243
+WG,Surface,2021-10-12,240.9999922793876
+WG,Mid-Depth,2021-10-12,241.75899752015025
+WG,Lower Photic,2021-10-12,242.96244448568945
+WG,Deep,2021-10-12,249.14379894617647
+WP,Surface,2021-10-12,241.2736910957459
+WP,Mid-Depth,2021-10-12,241.0
+WP,Lower Photic,2021-10-12,243.0955193420015
+WP,Deep,2021-10-12,248.9772885572116
+SA,Surface,2021-11-09,242.0532132395876
+SA,Mid-Depth,2021-11-09,242.50647903853343
+SA,Lower Photic,2021-11-09,242.9932484003604
+SA,Deep,2021-11-09,250.95304997650612
+WG,Surface,2021-11-09,242.0
+WG,Mid-Depth,2021-11-09,241.9924977030645
+WG,Lower Photic,2021-11-09,242.6590825708974
+WG,Deep,2021-11-09,248.8665878467293
+WP,Surface,2021-11-09,241.5290102429631
+WP,Mid-Depth,2021-11-09,241.35986532652976
+WP,Lower Photic,2021-11-09,242.0069450139202
+WP,Deep,2021-11-09,248.812538654492
+SA,Surface,2021-12-07,245.0
+SA,Mid-Depth,2021-12-07,244.99610209629608
+SA,Lower Photic,2021-12-07,245.9863565133437
+SA,Deep,2021-12-07,246.9468097998228
+WG,Surface,2021-12-07,244.0
+WG,Mid-Depth,2021-12-07,244.03948374327152
+WG,Lower Photic,2021-12-07,245.00321590834
+WG,Deep,2021-12-07,247.90604448661065
+WP,Surface,2021-12-07,244.0
+WP,Mid-Depth,2021-12-07,244.0
+WP,Lower Photic,2021-12-07,243.99992006541487
+WP,Deep,2021-12-07,247.82384319349936
+SA,Surface,2022-01-18,247.0
+SA,Mid-Depth,2022-01-18,247.0
+SA,Lower Photic,2022-01-18,247.7740289870127
+SA,Deep,2022-01-18,248.9151877203645
+WG,Surface,2022-01-18,246.0
+WG,Mid-Depth,2022-01-18,246.0
+WG,Lower Photic,2022-01-18,246.0775542282739
+WG,Deep,2022-01-18,247.67758268554863
+WP,Surface,2022-01-18,246.04547798700253
+WP,Mid-Depth,2022-01-18,246.15360127775563
+WP,Lower Photic,2022-01-18,247.001120302774
+WP,Deep,2022-01-18,247.84934219201705
+SA,Surface,2022-02-08,247.65185632691163
+SA,Mid-Depth,2022-02-08,247.514249631628
+SA,Lower Photic,2022-02-08,248.9168036278314
+SA,Deep,2022-02-08,249.17058643734623
+WG,Surface,2022-02-08,247.0
+WG,Mid-Depth,2022-02-08,247.0
+WG,Lower Photic,2022-02-08,247.0
+WG,Deep,2022-02-08,247.42835231660817
+WP,Surface,2022-02-08,245.6727280216708
+WP,Mid-Depth,2022-02-08,247.0
+WP,Lower Photic,2022-02-08,247.0
+WP,Deep,2022-02-08,247.21099590481683
+SA,Surface,2022-03-08,237.84569266395627
+SA,Mid-Depth,2022-03-08,248.0
+SA,Lower Photic,2022-03-08,248.77022848998368
+SA,Deep,2022-03-08,250.5590246346716
+WG,Surface,2022-03-08,248.0
+WG,Mid-Depth,2022-03-08,248.0
+WG,Lower Photic,2022-03-08,248.0
+WG,Deep,2022-03-08,248.0
+WP,Surface,2022-03-08,237.3821061018299
+WP,Mid-Depth,2022-03-08,247.15948346207145
+WP,Lower Photic,2022-03-08,248.0002160150205
+WP,Deep,2022-03-08,248.0
+SA,Surface,2022-04-05,249.32284750331087
+SA,Mid-Depth,2022-04-05,249.0272690967136
+SA,Lower Photic,2022-04-05,251.4782507610626
+SA,Deep,2022-04-05,250.4392260702856
+WG,Surface,2022-04-05,248.82271084954763
+WG,Mid-Depth,2022-04-05,249.00003810034133
+WG,Lower Photic,2022-04-05,248.2298540734651
+WG,Deep,2022-04-05,248.172857770398
+WP,Surface,2022-04-05,249.35056167409445
+WP,Mid-Depth,2022-04-05,248.53686044201496
+WP,Lower Photic,2022-04-05,248.0
+WP,Deep,2022-04-05,248.2339444019733
+SA,Surface,2022-05-10,248.0
+SA,Mid-Depth,2022-05-10,248.6615007648701
+SA,Lower Photic,2022-05-10,251.2120769119001
+SA,Deep,2022-05-10,252.80645907345905
+WG,Surface,2022-05-10,245.7601397169511
+WG,Mid-Depth,2022-05-10,247.3561637790352
+WG,Lower Photic,2022-05-10,248.9648617935736
+WG,Deep,2022-05-10,248.8789504469284
+WP,Surface,2022-05-10,248.0
+WP,Mid-Depth,2022-05-10,248.67740559682332
+WP,Lower Photic,2022-05-10,249.0
+WP,Deep,2022-05-10,249.0
+SA,Surface,2022-06-14,245.2722866120322
+SA,Mid-Depth,2022-06-14,246.0
+SA,Lower Photic,2022-06-14,248.67823632136972
+SA,Deep,2022-06-14,252.0347174167016
+WG,Surface,2022-06-14,246.0
+WG,Mid-Depth,2022-06-14,246.0
+WG,Lower Photic,2022-06-14,247.86748224816264
+WG,Deep,2022-06-14,248.99353746600545
+WP,Surface,2022-06-14,245.4532730007941
+WP,Mid-Depth,2022-06-14,245.9971533139309
+WP,Lower Photic,2022-06-14,248.81513909665745
+WP,Deep,2022-06-14,248.99929752115384
+SA,Surface,2022-07-12,245.8221427890079
+SA,Mid-Depth,2022-07-12,246.0
+SA,Lower Photic,2022-07-12,248.7624145913663
+SA,Deep,2022-07-12,251.34811720217203
+WG,Surface,2022-07-12,245.0
+WG,Mid-Depth,2022-07-12,244.99772762258448
+WG,Lower Photic,2022-07-12,247.135505505675
+WG,Deep,2022-07-12,249.20069817786035
+WP,Surface,2022-07-12,245.58226378518347
+WP,Mid-Depth,2022-07-12,245.0803084057918
+WP,Lower Photic,2022-07-12,247.01079287684928
+WP,Deep,2022-07-12,249.18603578487463
+SA,Surface,2022-08-09,246.0
+SA,Mid-Depth,2022-08-09,246.0
+SA,Lower Photic,2022-08-09,246.7834101530378
+SA,Deep,2022-08-09,252.5681984804073
+WG,Surface,2022-08-09,246.0
+WG,Mid-Depth,2022-08-09,246.0
+WG,Lower Photic,2022-08-09,246.650508824197
+WG,Deep,2022-08-09,249.13087236939256
+WP,Surface,2022-08-09,245.2166981899984
+WP,Mid-Depth,2022-08-09,245.7858571332177
+WP,Lower Photic,2022-08-09,246.5997120540093
+WP,Deep,2022-08-09,249.09451066572865
+SA,Surface,2022-09-06,243.93881120647472
+SA,Mid-Depth,2022-09-06,243.65083937382428
+SA,Lower Photic,2022-09-06,246.831145191752
+SA,Deep,2022-09-06,253.63133041226573
+WG,Surface,2022-09-06,244.0
+WG,Mid-Depth,2022-09-06,243.9942444984518
+WG,Lower Photic,2022-09-06,246.3092175755272
+WG,Deep,2022-09-06,249.5650701064099
+WP,Surface,2022-09-06,243.45658531076944
+WP,Mid-Depth,2022-09-06,242.3767439192356
+WP,Lower Photic,2022-09-06,244.1474998583222
+WP,Deep,2022-09-06,249.05875547291828
+SA,Surface,2022-10-18,242.0
+SA,Mid-Depth,2022-10-18,242.414847371046
+SA,Lower Photic,2022-10-18,243.1055199227923
+SA,Deep,2022-10-18,252.6208695568122
+WG,Surface,2022-10-18,242.0
+WG,Mid-Depth,2022-10-18,242.0
+WG,Lower Photic,2022-10-18,241.9978358169901
+WG,Deep,2022-10-18,248.9546584467843
+WP,Surface,2022-10-18,241.2153789217156
+WP,Mid-Depth,2022-10-18,240.3790148182051
+WP,Lower Photic,2022-10-18,241.9270451545909
+WP,Deep,2022-10-18,249.2158736368171
+SA,Surface,2022-11-08,242.2859494215357
+SA,Mid-Depth,2022-11-08,242.6662861590615
+SA,Lower Photic,2022-11-08,244.83074123670707
+SA,Deep,2022-11-08,252.8659085857037
+WG,Surface,2022-11-08,241.0
+WG,Mid-Depth,2022-11-08,241.0
+WG,Lower Photic,2022-11-08,241.5544814632948
+WG,Deep,2022-11-08,249.23863055060923
+WP,Surface,2022-11-08,240.73288141530665
+WP,Mid-Depth,2022-11-08,241.3334357450552
+WP,Lower Photic,2022-11-08,242.0281476426806
+WP,Deep,2022-11-08,249.3197357731287
+SA,Surface,2022-12-06,245.0
+SA,Mid-Depth,2022-12-06,245.0
+SA,Lower Photic,2022-12-06,245.0
+SA,Deep,2022-12-06,246.24419764812765
+WG,Surface,2022-12-06,244.0
+WG,Mid-Depth,2022-12-06,244.0
+WG,Lower Photic,2022-12-06,244.0
+WG,Deep,2022-12-06,248.2832322279832
+WP,Surface,2022-12-06,244.0
+WP,Mid-Depth,2022-12-06,244.0
+WP,Lower Photic,2022-12-06,244.0
+WP,Deep,2022-12-06,248.3479312344666
+SA,Surface,2023-01-17,247.22735217366449
+SA,Mid-Depth,2023-01-17,246.9992019818781
+SA,Lower Photic,2023-01-17,247.9285509323454
+SA,Deep,2023-01-17,248.0
+WG,Surface,2023-01-17,246.0
+WG,Mid-Depth,2023-01-17,246.0
+WG,Lower Photic,2023-01-17,246.31751163408492
+WG,Deep,2023-01-17,247.43689972856228
+WP,Surface,2023-01-17,246.55389071723548
+WP,Mid-Depth,2023-01-17,246.0
+WP,Lower Photic,2023-01-17,246.4215037172668
+WP,Deep,2023-01-17,247.29118022618616
+SA,Surface,2023-02-14,248.0
+SA,Mid-Depth,2023-02-14,248.0
+SA,Lower Photic,2023-02-14,248.1053771199995
+SA,Deep,2023-02-14,249.16618455862545
+WG,Surface,2023-02-14,247.0
+WG,Mid-Depth,2023-02-14,247.5784748286096
+WG,Lower Photic,2023-02-14,248.0
+WG,Deep,2023-02-14,248.31682171535368
+WP,Surface,2023-02-14,248.0
+WP,Mid-Depth,2023-02-14,248.0
+WP,Lower Photic,2023-02-14,248.0
+WP,Deep,2023-02-14,248.0
+SA,Surface,2023-03-14,249.0
+SA,Mid-Depth,2023-03-14,249.0
+SA,Lower Photic,2023-03-14,249.6348067812084
+SA,Deep,2023-03-14,251.8892158095537
+WG,Surface,2023-03-14,248.0
+WG,Mid-Depth,2023-03-14,248.0
+WG,Lower Photic,2023-03-14,248.4556753014513
+WG,Deep,2023-03-14,249.0
+WP,Surface,2023-03-14,248.29843545525645
+WP,Mid-Depth,2023-03-14,248.0
+WP,Lower Photic,2023-03-14,248.42017227448667
+WP,Deep,2023-03-14,249.0
+SA,Surface,2023-04-11,250.0
+SA,Mid-Depth,2023-04-11,250.0
+SA,Lower Photic,2023-04-11,250.402966052358
+SA,Deep,2023-04-11,253.0635637763853
+WG,Surface,2023-04-11,249.0
+WG,Mid-Depth,2023-04-11,249.0
+WG,Lower Photic,2023-04-11,249.0
+WG,Deep,2023-04-11,249.0
+WP,Surface,2023-04-11,249.0
+WP,Mid-Depth,2023-04-11,249.0
+WP,Lower Photic,2023-04-11,249.0
+WP,Deep,2023-04-11,249.0
+SA,Surface,2023-05-09,249.9384977612899
+SA,Mid-Depth,2023-05-09,249.8073060429702
+SA,Lower Photic,2023-05-09,252.35373784769408
+SA,Deep,2023-05-09,252.3393313367698
+WG,Surface,2023-05-09,250.0
+WG,Mid-Depth,2023-05-09,250.0
+WG,Lower Photic,2023-05-09,249.7720319494455
+WG,Deep,2023-05-09,249.08971757119323
+WP,Surface,2023-05-09,248.44574343718315
+WP,Mid-Depth,2023-05-09,249.0
+WP,Lower Photic,2023-05-09,249.0
+WP,Deep,2023-05-09,249.12813414584937
+SA,Surface,2023-06-13,249.0
+SA,Mid-Depth,2023-06-13,248.74966138954133
+SA,Lower Photic,2023-06-13,253.4611658700622
+SA,Deep,2023-06-13,254.4257090784164
+WG,Surface,2023-06-13,249.0
+WG,Mid-Depth,2023-06-13,249.0
+WG,Lower Photic,2023-06-13,249.70987218242908
+WG,Deep,2023-06-13,250.0
+WP,Surface,2023-06-13,248.681000490276
+WP,Mid-Depth,2023-06-13,248.0948453785295
+WP,Lower Photic,2023-06-13,249.7412898357988
+WP,Deep,2023-06-13,250.0
+SA,Surface,2023-07-18,248.40949259867423
+SA,Mid-Depth,2023-07-18,248.3510850649074
+SA,Lower Photic,2023-07-18,252.4835984220988
+SA,Deep,2023-07-18,253.81594116032124
+WG,Surface,2023-07-18,248.4246575342466
+WG,Mid-Depth,2023-07-18,248.42426515315088
+WG,Lower Photic,2023-07-18,249.4632823275529
+WG,Deep,2023-07-18,249.874887083123
+WP,Surface,2023-07-18,244.1381796626221
+WP,Mid-Depth,2023-07-18,247.5358559353988
+WP,Lower Photic,2023-07-18,249.0183105758452
+WP,Deep,2023-07-18,250.0325228885832
+SA,Surface,2023-08-16,247.0
+SA,Mid-Depth,2023-08-16,247.1452055408748
+SA,Lower Photic,2023-08-16,251.74687522677212
+SA,Deep,2023-08-16,254.1937671227062
+WG,Surface,2023-08-16,247.0
+WG,Mid-Depth,2023-08-16,246.9990452060004
+WG,Lower Photic,2023-08-16,249.0725410086871
+WG,Deep,2023-08-16,250.2417280262167
+WP,Surface,2023-08-16,237.76795737484065
+WP,Mid-Depth,2023-08-16,246.1915449606958
+WP,Lower Photic,2023-08-16,248.4268142047243
+WP,Deep,2023-08-16,250.60225854137613
+SA,Surface,2023-09-05,234.350997737658
+SA,Mid-Depth,2023-09-05,245.9223483815569
+SA,Lower Photic,2023-09-05,250.7838977824233
+SA,Deep,2023-09-05,255.1472690570348
+WG,Surface,2023-09-05,238.61459291314569
+WG,Mid-Depth,2023-09-05,246.0057750821948
+WG,Lower Photic,2023-09-05,247.6845152384325
+WG,Deep,2023-09-05,250.55160670261765
+WP,Surface,2023-09-05,235.320443147992
+WP,Mid-Depth,2023-09-05,246.0835285486333
+WP,Lower Photic,2023-09-05,248.22244530115591
+WP,Deep,2023-09-05,250.3558119370769
+SA,Surface,2023-10-18,300.0
+SA,Mid-Depth,2023-10-18,300.0
+SA,Lower Photic,2023-10-18,300.0
+SA,Deep,2023-10-18,300.0
+WG,Surface,2023-10-18,300.0
+WG,Mid-Depth,2023-10-18,300.0
+WG,Lower Photic,2023-10-18,300.0
+WG,Deep,2023-10-18,300.0
+WP,Surface,2023-10-18,300.0
+WP,Mid-Depth,2023-10-18,300.0
+WP,Lower Photic,2023-10-18,300.0
+WP,Deep,2023-10-18,300.0
+SA,Surface,2023-11-14,242.4784521820731
+SA,Mid-Depth,2023-11-14,244.64825887631252
+SA,Lower Photic,2023-11-14,245.1392214803433
+SA,Deep,2023-11-14,251.04339084488325
+WG,Surface,2023-11-14,244.0
+WG,Mid-Depth,2023-11-14,244.0
+WG,Lower Photic,2023-11-14,244.0
+WG,Deep,2023-11-14,249.5594235393569
+WP,Surface,2023-11-14,244.0
+WP,Mid-Depth,2023-11-14,244.0
+WP,Lower Photic,2023-11-14,244.0
+WP,Deep,2023-11-14,249.0928094980761
+SA,Surface,2023-12-05,245.68955716247083
+SA,Mid-Depth,2023-12-05,246.0
+SA,Lower Photic,2023-12-05,245.9979301834914
+SA,Deep,2023-12-05,250.2854033238613
+WG,Surface,2023-12-05,237.8850480631336
+WG,Mid-Depth,2023-12-05,244.5490650912257
+WG,Lower Photic,2023-12-05,245.0
+WG,Deep,2023-12-05,249.3456951555176
+WP,Surface,2023-12-05,231.5404669235745
+WP,Mid-Depth,2023-12-05,245.0
+WP,Lower Photic,2023-12-05,245.0
+WP,Deep,2023-12-05,249.0593999229294

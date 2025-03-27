@@ -1,0 +1,36 @@
+=== Original Ph Data Quality Report ===
+
+Overall Statistics:
+Total measurements possible: 13054
+Total missing values: 2418
+Overall missing proportion: 0.185
+
+Missing Values by Depth Group:
+
+Surface Layer:
+  Missing values (mean): 0.099
+  Missing values (range): 0.091 - 0.818
+  Average measurements per date: 11.0
+  Mean ph: 8.586 ± 0.546
+  Ph range: 6.993 - 10.867
+
+Mid-Depth Layer:
+  Missing values (mean): 0.007
+  Missing values (range): 0.000 - 0.800
+  Average measurements per date: 10.0
+  Mean ph: 8.373 ± 0.673
+  Ph range: 6.395 - 11.184
+
+Lower Photic Layer:
+  Missing values (mean): 0.097
+  Missing values (range): 0.091 - 0.727
+  Average measurements per date: 11.0
+  Mean ph: 8.201 ± 0.731
+  Ph range: 6.047 - 11.351
+
+Deep Layer:
+  Missing values (mean): 0.226
+  Missing values (range): 0.000 - 0.967
+  Average measurements per date: 90.0
+  Mean ph: 7.769 ± 0.802
+  Ph range: 4.905 - 10.140

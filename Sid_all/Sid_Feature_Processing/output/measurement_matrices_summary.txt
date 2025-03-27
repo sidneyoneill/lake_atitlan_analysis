@@ -1,0 +1,27 @@
+
+Processing feature: turbidity
+
+Measurement Matrix Summary for turbidity - WG:
+Total dates: 77
+Total depths: 297
+Total possible measurements: 22869
+Matrix saved to: output/WG/turbidity/measurement_matrix.csv
+Time series plot saved to: output/WG/turbidity/depth_group_timeseries.png
+
+Measurement Matrix Summary for turbidity - SA:
+Total dates: 68
+Total depths: 53
+Total possible measurements: 3604
+Matrix saved to: output/SA/turbidity/measurement_matrix.csv
+Time series plot saved to: output/SA/turbidity/depth_group_timeseries.png
+
+Measurement Matrix Summary for turbidity - WP:
+Total dates: 71
+Total depths: 119
+Total possible measurements: 8449
+Matrix saved to: output/WP/turbidity/measurement_matrix.csv
+Time series plot saved to: output/WP/turbidity/depth_group_timeseries.png
+
+Processing complete for turbidity.
+
+All features have been processed. Check the output directory for results.

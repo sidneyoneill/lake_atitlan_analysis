@@ -1,0 +1,5 @@
+location,depth,RMSE,MAPE,MAE,R2,EVS,hyper_param
+WG,Surface,3.1,33.68,1.05,0.0,0.05,49
+WG,Mid-Depth,4.89,27.57,1.63,-0.08,0.03,57
+WG,Lower Photic,3.79,33.43,1.47,0.01,0.1,59
+WG,Deep,0.96,27.7,0.44,0.09,0.24,35

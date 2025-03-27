@@ -1,0 +1,17 @@
+=== Missing Values Summary ===
+Original missing values: 161
+After vertical interpolation: 110
+After horizontal imputation: 0
+
+=== Value Range Checks ===
+Min chlorophyll: 0.119 μg/L
+Max chlorophyll: 38.482 μg/L
+
+=== Depth Group Statistics ===
+             mean_chlorophyll                       measurement_count
+                         mean    std    min     max              mean
+depth_group                                                          
+Deep                    1.452  1.559  0.198   9.370               4.0
+Lower Photic            2.581  2.911  0.639  26.274              10.0
+Mid-Depth               3.096  3.468  0.840  34.155              10.0
+Surface                 2.491  2.369  0.479  19.306              10.0

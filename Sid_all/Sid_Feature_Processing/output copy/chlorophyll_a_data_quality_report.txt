@@ -1,0 +1,17 @@
+=== Chlorophyll_a Data Quality Report ===
+Original missing values: 407
+After vertical interpolation: 350
+After horizontal imputation: 0
+
+=== Value Range Checks ===
+Min chlorophyll_a: 0.010
+Max chlorophyll_a: 26.854
+
+=== Depth Group Statistics ===
+             mean_chlorophyll_a                       measurement_count
+                           mean    std    min     max              mean
+depth_group                                                            
+Deep                      1.048  1.024  0.018   7.597              28.0
+Lower Photic              1.923  2.078  0.010  19.263              10.0
+Mid-Depth                 2.445  2.756  0.010  25.971              10.0
+Surface                   1.860  2.136  0.182  17.476              10.0

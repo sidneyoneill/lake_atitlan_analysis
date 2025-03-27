@@ -1,0 +1,17 @@
+location,depth_group,feature,date,observed_value
+WP,0-10m,ammonium,09/07/2021,107.8063277
+SA,0-10m,chlorophyll_a,18/10/2023,19.30642264
+SA,10-30m,chlorophyll_a,18/10/2023,30.21456981
+WP,0-10m,chlorophyll_a,18/10/2023,17.47551148
+WP,10-30m,chlorophyll_a,18/10/2023,22.6170726
+WP,30m+,chlorophyll_a,18/10/2023,7.596744743
+WG,0-10m,chlorophyll_a,18/10/2023,20.00315197
+WG,10-30m,chlorophyll_a,18/10/2023,26.95136561
+WG,30m+,chlorophyll_a,18/10/2023,6.653466656
+WG,30m+,dissolved_oxygen,02/12/2019,5.008885093
+SA,0-10m,phosphate,02/07/2018,111.3977854
+WG,0-10m,temp,14/12/2017,25.165
+WG,10-30m,temp,14/12/2017,25.24
+WG,30m+,temp,14/12/2017,24.10147402
+SA,0-10m,turbidity,24/09/2018,2.059427356
+WG,0-10m,turbidity,24/09/2018,2.505238228

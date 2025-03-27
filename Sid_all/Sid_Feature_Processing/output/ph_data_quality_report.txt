@@ -1,0 +1,17 @@
+=== Ph Data Quality Report ===
+Original missing values: 250
+After vertical interpolation: 237
+After horizontal imputation: 0
+
+=== Value Range Checks ===
+Min ph: 4.187
+Max ph: 11.410
+
+=== Depth Group Statistics ===
+             mean_ph                       measurement_count
+                mean    std    min     max              mean
+depth_group                                                 
+Deep           7.752  0.713  5.448   9.926              10.0
+Lower Photic   8.201  0.732  6.047  11.351              10.0
+Mid-Depth      8.373  0.673  6.382  11.184              10.0
+Surface        8.587  0.544  6.995  10.867              10.0

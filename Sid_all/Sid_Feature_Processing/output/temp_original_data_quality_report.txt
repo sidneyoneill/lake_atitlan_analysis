@@ -1,0 +1,36 @@
+=== Original Temp Data Quality Report ===
+
+Overall Statistics:
+Total measurements possible: 13161
+Total missing values: 2534
+Overall missing proportion: 0.193
+
+Missing Values by Depth Group:
+
+Surface Layer:
+  Missing values (mean): 0.167
+  Missing values (range): 0.083 - 0.250
+  Average measurements per date: 12.0
+  Mean temp: 22.856 ± 1.265
+  Temp range: 20.383 - 24.857
+
+Mid-Depth Layer:
+  Missing values (mean): 0.000
+  Missing values (range): 0.000 - 0.000
+  Average measurements per date: 10.0
+  Mean temp: 22.402 ± 1.166
+  Temp range: 20.272 - 24.174
+
+Lower Photic Layer:
+  Missing values (mean): 0.090
+  Missing values (range): 0.000 - 0.091
+  Average measurements per date: 11.0
+  Mean temp: 21.846 ± 0.903
+  Temp range: 20.261 - 23.740
+
+Deep Layer:
+  Missing values (mean): 0.230
+  Missing values (range): 0.000 - 0.967
+  Average measurements per date: 90.0
+  Mean temp: 20.646 ± 0.193
+  Temp range: 20.243 - 21.500

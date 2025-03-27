@@ -1,0 +1,36 @@
+=== Original Chlorophyll_a Data Quality Report ===
+
+Overall Statistics:
+Total measurements possible: 13161
+Total missing values: 2567
+Overall missing proportion: 0.195
+
+Missing Values by Depth Group:
+
+Surface Layer:
+  Missing values (mean): 0.188
+  Missing values (range): 0.167 - 0.917
+  Average measurements per date: 12.0
+  Mean chlorophyll_a: 1.849 ± 2.147
+  Chlorophyll_a range: 0.182 - 17.476
+
+Mid-Depth Layer:
+  Missing values (mean): 0.025
+  Missing values (range): 0.000 - 1.000
+  Average measurements per date: 10.0
+  Mean chlorophyll_a: 2.451 ± 2.789
+  Chlorophyll_a range: 0.010 - 25.971
+
+Lower Photic Layer:
+  Missing values (mean): 0.108
+  Missing values (range): 0.091 - 0.909
+  Average measurements per date: 11.0
+  Mean chlorophyll_a: 1.942 ± 2.108
+  Chlorophyll_a range: 0.010 - 19.263
+
+Deep Layer:
+  Missing values (mean): 0.226
+  Missing values (range): 0.000 - 1.000
+  Average measurements per date: 90.0
+  Mean chlorophyll_a: 0.801 ± 0.845
+  Chlorophyll_a range: 0.010 - 6.475

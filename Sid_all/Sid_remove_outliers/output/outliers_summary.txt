@@ -1,0 +1,13 @@
+Number of outliers found in each feature:
+ph: 65 outliers
+secchi: 54 outliers
+biochemical_oxygen_demand: 54 outliers
+total_dissolved_solids: 51 outliers
+phosphorus: 38 outliers
+dissolved_oxygen: 37 outliers
+chlorophyll_a: 31 outliers
+nitrate: 29 outliers
+ammonium: 29 outliers
+turbidity: 28 outliers
+phosphate: 22 outliers
+temp: 12 outliers

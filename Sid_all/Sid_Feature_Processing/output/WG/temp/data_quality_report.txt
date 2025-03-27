@@ -1,0 +1,17 @@
+=== Temp Data Quality Report ===
+Original missing values: 416
+After vertical interpolation: 353
+After horizontal imputation: 0
+
+=== Value Range Checks ===
+Min temp: 20.236
+Max temp: 25.900
+
+=== Depth Group Statistics ===
+             mean_temp                        measurement_count
+                  mean    std     min     max              mean
+depth_group                                                    
+Deep            20.484  0.313  20.245  23.653              23.0
+Lower Photic    21.948  0.978  20.287  25.217              10.0
+Mid-Depth       22.567  1.190  20.288  25.263              10.0
+Surface         22.707  1.196  20.287  25.165              10.0

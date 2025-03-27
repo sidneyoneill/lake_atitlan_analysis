@@ -1,0 +1,17 @@
+=== Dissolved_oxygen Data Quality Report ===
+Original missing values: 698
+After vertical interpolation: 615
+After horizontal imputation: 0
+
+=== Value Range Checks ===
+Min dissolved_oxygen: 0.001
+Max dissolved_oxygen: 9.724
+
+=== Depth Group Statistics ===
+             mean_dissolved_oxygen                      measurement_count
+                              mean    std    min    max              mean
+depth_group                                                              
+Deep                         2.821  0.683  1.617  5.160              45.0
+Lower Photic                 6.251  0.823  2.988  7.926              10.0
+Mid-Depth                    7.082  0.602  4.288  8.508              10.0
+Surface                      7.185  0.581  4.345  8.476              10.0

@@ -1,0 +1,36 @@
+=== Original Dissolved_oxygen Data Quality Report ===
+
+Overall Statistics:
+Total measurements possible: 13284
+Total missing values: 2563
+Overall missing proportion: 0.193
+
+Missing Values by Depth Group:
+
+Surface Layer:
+  Missing values (mean): 0.167
+  Missing values (range): 0.083 - 0.250
+  Average measurements per date: 12.0
+  Mean dissolved_oxygen: 7.103 ± 0.984
+  Dissolved_oxygen range: 0.000 - 8.796
+
+Mid-Depth Layer:
+  Missing values (mean): 0.000
+  Missing values (range): 0.000 - 0.000
+  Average measurements per date: 10.0
+  Mean dissolved_oxygen: 6.809 ± 1.051
+  Dissolved_oxygen range: 0.000 - 8.223
+
+Lower Photic Layer:
+  Missing values (mean): 0.090
+  Missing values (range): 0.000 - 0.091
+  Average measurements per date: 11.0
+  Mean dissolved_oxygen: 5.896 ± 1.008
+  Dissolved_oxygen range: 0.000 - 7.531
+
+Deep Layer:
+  Missing values (mean): 0.230
+  Missing values (range): 0.000 - 0.967
+  Average measurements per date: 90.0
+  Mean dissolved_oxygen: 3.328 ± 1.063
+  Dissolved_oxygen range: 0.000 - 6.843
